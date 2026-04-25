@@ -1,0 +1,47 @@
+model:
+  name: meta-llama/Llama-3.1-8B-Instruct
+  revision: "0e9e39f249a16976918f6564b8830bc894c89659"
+  precision: bf16
+
+seeds:
+  torch: 42
+  numpy: 42
+  random: 42
+
+paths:
+  materials: data/materials.json
+  trajectories: data/trajectories/
+  labels: data/labels.json
+  prompts:
+    judge: prompts/judge.md
+    system_prompts: prompts/system_prompts.md
+    templates: prompts/templates.md
+
+data:
+  n_real_materials: 200
+  n_perturbations: 200
+  properties:
+    - band_gap
+    - formation_energy_per_atom
+    - density
+  templates_per_property: 5
+  system_prompt_variants:
+    - neutral
+    - pressure
+    - honesty
+
+splits:
+  train_fraction: 0.7
+  cross_chemistry:
+    train: oxides
+    test: sulfides
+
+probe:
+  model: logistic_regression
+  C: 1.0
+  max_iter: 1000
+  n_layers: 33
+
+labeling:
+  calibration_size: 50
+  agreement_threshold: 0.85

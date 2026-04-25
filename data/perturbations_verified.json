@@ -1,0 +1,1402 @@
+[
+  {
+    "perturbed_formula": "AsSe3",
+    "source_material_id": "mp-662599",
+    "source_formula": "Ag3AsSe3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba3Sn2Nb2",
+    "source_material_id": "mp-1190176",
+    "source_formula": "Ba3Sn2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba6MgTiS5Nb",
+    "source_material_id": "mp-2230226",
+    "source_formula": "Ba6Mg(TiS5)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BH5N",
+    "source_material_id": "mp-1106172",
+    "source_formula": "BH5NCl",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca5Mg5P5O21F4K3",
+    "source_material_id": "mp-686434",
+    "source_formula": "Ca5Mg5P5O21F4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaNb2Te6",
+    "source_material_id": "mp-28150",
+    "source_formula": "BaNb2O6",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaIrF4",
+    "source_material_id": "mp-1389180",
+    "source_formula": "CaCoF4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgSbBiS2",
+    "source_material_id": "mp-1229081",
+    "source_formula": "AgSb(PbS2)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca2FeP2H2O3Sb3",
+    "source_material_id": "mp-780739",
+    "source_formula": "Ca2FeP2(H2O3)4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi5SeO6",
+    "source_material_id": "mp-1046291",
+    "source_formula": "Bi5(TeO6)3",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al5Si3N",
+    "source_material_id": "mp-5496",
+    "source_formula": "Al5C3N",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca5Al2GeN4",
+    "source_material_id": "mp-866314",
+    "source_formula": "Ca5Al2(SiN4)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba7Fe6SeF16",
+    "source_material_id": "mp-821363",
+    "source_formula": "Ba7Fe6(OF16)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "SrYS2",
+    "source_material_id": "mp-29036",
+    "source_formula": "Ba(YS2)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "H6C2N5F4",
+    "source_material_id": "mp-1199055",
+    "source_formula": "BH6C2N5F4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "HfO8",
+    "source_material_id": "mp-755421",
+    "source_formula": "Ca6HfO8",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AsC3S3NF10Ta2",
+    "source_material_id": "mp-1214763",
+    "source_formula": "AsC3S3NF10",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaTa2NO2",
+    "source_material_id": "mp-1227303",
+    "source_formula": "BaTaNO2",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi4Ru2I2",
+    "source_material_id": "mp-541771",
+    "source_formula": "Bi4RuI2",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BH3Li2",
+    "source_material_id": "mp-634117",
+    "source_formula": "BH3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba7SiB3NO13Pb",
+    "source_material_id": "mp-1256464",
+    "source_formula": "Ba7SiB3NO13",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "SiBrN",
+    "source_material_id": "mp-730189",
+    "source_formula": "CBrN",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaNbInSnO6Ag2",
+    "source_material_id": "mp-1520754",
+    "source_formula": "BaNbInSnO6",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgH3O2Co",
+    "source_material_id": "mp-769355",
+    "source_formula": "AgH3O2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgAsBr4Rb2",
+    "source_material_id": "mp-2646989",
+    "source_formula": "AgAsBr4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BF3Co3",
+    "source_material_id": "mp-27896",
+    "source_formula": "BF3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "B2C2N2",
+    "source_material_id": "mp-1376593",
+    "source_formula": "B2(CN2)3",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba3LaBO3",
+    "source_material_id": "mp-14972",
+    "source_formula": "Ba3Sc(BO3)3",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba2LaRuTe6",
+    "source_material_id": "mp-12911",
+    "source_formula": "Ba2LaRuO6",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi11Se4",
+    "source_material_id": "mp-1228808",
+    "source_formula": "Bi11(Se4Cl3)3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba4La2SbRuO10",
+    "source_material_id": "mp-1228220",
+    "source_formula": "Ba4La2SbRuO12",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgBiO2Sn3",
+    "source_material_id": "mp-996968",
+    "source_formula": "AgBiO2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Au2HgI4",
+    "source_material_id": "mp-1229122",
+    "source_formula": "Ag2HgI4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca5SiSe5",
+    "source_material_id": "mp-1197843",
+    "source_formula": "Ca5(SiO5)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al2Cu2Bi2S3Cl8F",
+    "source_material_id": "mp-1195160",
+    "source_formula": "Al2Cu2Bi2S3Cl8",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaLaTe",
+    "source_material_id": "mp-36031",
+    "source_formula": "Ca(LaTe2)2",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AuSeO3",
+    "source_material_id": "mp-560549",
+    "source_formula": "AuSeClO3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba3LaCl5",
+    "source_material_id": "mp-769049",
+    "source_formula": "BaLaCl5",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaWS2",
+    "source_material_id": "mp-1333926",
+    "source_formula": "Ca(WO2)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaSrFeF7",
+    "source_material_id": "mp-1047946",
+    "source_formula": "BaCaFeF7",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba2LiV3P2O9",
+    "source_material_id": "mp-760067",
+    "source_formula": "Ba2LiVP2O9",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ag2TeH2O3P3",
+    "source_material_id": "mp-1193238",
+    "source_formula": "Ag2Te(H2O3)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca3Ta2O8In",
+    "source_material_id": "mp-769381",
+    "source_formula": "Ca3Ta2O8",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba2Li3TaN4Sr2",
+    "source_material_id": "mp-573677",
+    "source_formula": "Ba2Li3TaN4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "RaSrMg6O8",
+    "source_material_id": "mp-1033527",
+    "source_formula": "BaSrMg6O8",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaAs2F12Sr2",
+    "source_material_id": "mp-1214710",
+    "source_formula": "BaAs2F12",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BiPS3",
+    "source_material_id": "mp-556434",
+    "source_formula": "AgBi(PS3)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba2PrRuS6",
+    "source_material_id": "mp-6183",
+    "source_formula": "Ba2PrRuO6",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba2Si3O8Rb2",
+    "source_material_id": "mp-553897",
+    "source_formula": "Ba2Si3O8",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba5In3F19Ca2",
+    "source_material_id": "mp-1201460",
+    "source_formula": "Ba5In3F19",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca4P2S",
+    "source_material_id": "mp-5380",
+    "source_formula": "Ca4P2O",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Sr4Nb2WO12",
+    "source_material_id": "mp-1228131",
+    "source_formula": "Ba4Nb2WO12",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al2Cr3CuS8Zn2",
+    "source_material_id": "mp-1228975",
+    "source_formula": "Al2Cr3CuS8",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba4Ga4SnSe12Fe3",
+    "source_material_id": "mp-1195344",
+    "source_formula": "Ba4Ga4SnSe12",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba2PrSbO6Br",
+    "source_material_id": "mp-10731",
+    "source_formula": "Ba2PrSbO6",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BeB3H7",
+    "source_material_id": "mp-722237",
+    "source_formula": "Be(B3H8)2",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca3Mn2Sb",
+    "source_material_id": "mp-1374903",
+    "source_formula": "Ca3Mn2(SbO6)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca2Fe",
+    "source_material_id": "mp-1205964",
+    "source_formula": "Ca2FeH6",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BiBI3",
+    "source_material_id": "mp-1006880",
+    "source_formula": "BiB",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al4V13Si2SbO14Na2",
+    "source_material_id": "mp-1256235",
+    "source_formula": "Al4V13Si2(SbO14)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "B3H2N",
+    "source_material_id": "mp-29306",
+    "source_formula": "B5(H2N)2",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca2Ta4P6SO12V",
+    "source_material_id": "mp-2713399",
+    "source_formula": "Ca2Ta4P6(SO12)3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba2RhO6",
+    "source_material_id": "mp-1205833",
+    "source_formula": "Ba2NbRhO6",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AlH8N3O2F5",
+    "source_material_id": "mp-1200764",
+    "source_formula": "AlH8N2O2F5",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba3CaTl2",
+    "source_material_id": "mp-1095980",
+    "source_formula": "BaCaTl2",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BiF",
+    "source_material_id": "mp-753673",
+    "source_formula": "BiOF",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "B5Pb2ClO8",
+    "source_material_id": "mp-557103",
+    "source_formula": "B5Pb2ClO9",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ge6S3N3Cl",
+    "source_material_id": "mp-722472",
+    "source_formula": "C6S3(N3Cl)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaCrF5Ce3",
+    "source_material_id": "mp-541031",
+    "source_formula": "BaCrF5",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BH2S3N3F4Ta2",
+    "source_material_id": "mp-1105132",
+    "source_formula": "BH2S3N3F4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AlFeO3Cu",
+    "source_material_id": "mp-1254277",
+    "source_formula": "AlFeO3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BeAlPt2Li",
+    "source_material_id": "mp-1097646",
+    "source_formula": "BeAlPt2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaH9O5Al2",
+    "source_material_id": "mp-1182823",
+    "source_formula": "Ba(H9O5)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al2Mo2S7",
+    "source_material_id": "mp-1262001",
+    "source_formula": "Al2Mo2O7",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba5P4As3",
+    "source_material_id": "mp-1105231",
+    "source_formula": "Ba5P4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca14GaAs11Ce3",
+    "source_material_id": "mp-568790",
+    "source_formula": "Ca14GaAs11",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca2SbW",
+    "source_material_id": "mp-1369592",
+    "source_formula": "Ca2SbWO6",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaLa3Ti4O15",
+    "source_material_id": "mp-1228245",
+    "source_formula": "BaLa4Ti4O15",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaCdHg2P3",
+    "source_material_id": "mp-1095738",
+    "source_formula": "BaCdHg2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaLa3EuSbO6",
+    "source_material_id": "mp-1520390",
+    "source_formula": "BaLaEuSbO6",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba4Ga2S6",
+    "source_material_id": "mp-29301",
+    "source_formula": "Ba4Ga2S7",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi2CrO6",
+    "source_material_id": "mp-555658",
+    "source_formula": "Bi2MoO6",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca2CrSb",
+    "source_material_id": "mp-1189906",
+    "source_formula": "Ca2CrSbO6",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaSi3O2",
+    "source_material_id": "mp-1233212",
+    "source_formula": "Ca(SiO2)6",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AsCSCl2Br9",
+    "source_material_id": "mp-561244",
+    "source_formula": "AsCSCl2F9",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaMg30NiS32",
+    "source_material_id": "mp-1036861",
+    "source_formula": "BaMg30NiO32",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaGa2Si3O10",
+    "source_material_id": "mp-1236884",
+    "source_formula": "CaAl2Si3O10",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca4GdGa3O10",
+    "source_material_id": "mp-6943",
+    "source_formula": "Ca4GdB3O10",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaCaNdNbS6",
+    "source_material_id": "mp-1519688",
+    "source_formula": "BaCaNdNbO6",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ra5Sb4",
+    "source_material_id": "mp-17399",
+    "source_formula": "Ba5Sb4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba3LaRuO6",
+    "source_material_id": "mp-554410",
+    "source_formula": "Ba2LaRuO6",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba2ScF7",
+    "source_material_id": "mp-768350",
+    "source_formula": "Ba2YF7",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaGdH6Ru",
+    "source_material_id": "mp-1227207",
+    "source_formula": "CaEuH6Ru",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba3ZrZnWO9",
+    "source_material_id": "mp-1228110",
+    "source_formula": "Ba3TiZnWO9",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "RaGaSe2",
+    "source_material_id": "mp-7841",
+    "source_formula": "Ba(GaSe2)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba2YCl7Be3",
+    "source_material_id": "mp-755104",
+    "source_formula": "Ba2YCl7",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba3Zr2S7V3",
+    "source_material_id": "mp-8570",
+    "source_formula": "Ba3Zr2S7",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba3ScN3Ge2",
+    "source_material_id": "mp-1245831",
+    "source_formula": "Ba3ScN3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AlH12C4NF4Si3",
+    "source_material_id": "mp-1228596",
+    "source_formula": "AlH12C4NF4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ag3AsSe3Na3",
+    "source_material_id": "mp-662599",
+    "source_formula": "Ag3AsSe3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba3Sn2Ni",
+    "source_material_id": "mp-1190176",
+    "source_formula": "Ba3Sn2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaZnP",
+    "source_material_id": "mp-1245788",
+    "source_formula": "Ba(ZnN)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba6Mg3TiS5",
+    "source_material_id": "mp-2230226",
+    "source_formula": "Ba6Mg(TiS5)2",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaNb2Se6",
+    "source_material_id": "mp-28150",
+    "source_formula": "BaNb2O6",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca2CoF4",
+    "source_material_id": "mp-1389180",
+    "source_formula": "CaCoF4",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BiAsO3",
+    "source_material_id": "mp-27911",
+    "source_formula": "BiAsO4",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgSbPbS2Br3",
+    "source_material_id": "mp-1229081",
+    "source_formula": "AgSb(PbS2)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BH4NF4Si3",
+    "source_material_id": "mp-720391",
+    "source_formula": "BH4NF4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi6TeO6",
+    "source_material_id": "mp-1046291",
+    "source_formula": "Bi5(TeO6)3",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al5CN",
+    "source_material_id": "mp-5496",
+    "source_formula": "Al5C3N",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "In3P3H9C3NO14",
+    "source_material_id": "mp-699455",
+    "source_formula": "Al3P3H9C3NO14",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca5Al4SiN4",
+    "source_material_id": "mp-866314",
+    "source_formula": "Ca5Al2(SiN4)2",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "SrTiPO4",
+    "source_material_id": "mp-1214296",
+    "source_formula": "BaTi(PO4)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba9Fe6OF16",
+    "source_material_id": "mp-821363",
+    "source_formula": "Ba7Fe6(OF16)2",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaYS2Au2",
+    "source_material_id": "mp-29036",
+    "source_formula": "Ba(YS2)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaCuSiSe3",
+    "source_material_id": "mp-1201761",
+    "source_formula": "BaCu(SiO3)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BH6C2N5F4As3",
+    "source_material_id": "mp-1199055",
+    "source_formula": "BH6C2N5F4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaSrGdTaO6",
+    "source_material_id": "mp-1522918",
+    "source_formula": "BaSrGdNbO6",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaPCo",
+    "source_material_id": "mp-11168",
+    "source_formula": "Ca(PIr)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ra3BBrO",
+    "source_material_id": "mp-1200496",
+    "source_formula": "Ba3B(BrO)3",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Sr6HfO8",
+    "source_material_id": "mp-755421",
+    "source_formula": "Ca6HfO8",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "C3P2",
+    "source_material_id": "mp-1188347",
+    "source_formula": "C3N2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AsC3S3NF8",
+    "source_material_id": "mp-1214763",
+    "source_formula": "AsC3S3NF10",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaNO2",
+    "source_material_id": "mp-1227303",
+    "source_formula": "BaTaNO2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi4FeI2",
+    "source_material_id": "mp-541771",
+    "source_formula": "Bi4RuI2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BH3Bi2",
+    "source_material_id": "mp-634117",
+    "source_formula": "BH3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba7SiBNO13",
+    "source_material_id": "mp-1256464",
+    "source_formula": "Ba7SiB3NO13",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba4Sn3O12",
+    "source_material_id": "mp-772086",
+    "source_formula": "Ba4Sn3O10",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BaNbInSnS6",
+    "source_material_id": "mp-1520754",
+    "source_formula": "BaNbInSnO6",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgH3Se2",
+    "source_material_id": "mp-769355",
+    "source_formula": "AgH3O2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgAsCl4",
+    "source_material_id": "mp-2646989",
+    "source_formula": "AgAsBr4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BF",
+    "source_material_id": "mp-27896",
+    "source_formula": "BF3",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "B2CAs2",
+    "source_material_id": "mp-1376593",
+    "source_formula": "B2(CN2)3",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ba3ScBO",
+    "source_material_id": "mp-14972",
+    "source_formula": "Ba3Sc(BO3)3",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi9Se4Cl3",
+    "source_material_id": "mp-1228808",
+    "source_formula": "Bi11(Se4Cl3)3",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca3Tl4O9Cs",
+    "source_material_id": "mp-1227625",
+    "source_formula": "Ca3Tl4O9",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgNO2Na3",
+    "source_material_id": "mp-5770",
+    "source_formula": "AgNO2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Sr5SiO5",
+    "source_material_id": "mp-1197843",
+    "source_formula": "Ca5(SiO5)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al2Cu2Bi2Cl8",
+    "source_material_id": "mp-1195160",
+    "source_formula": "Al2Cu2Bi2S3Cl8",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaLaTe2Ag2",
+    "source_material_id": "mp-36031",
+    "source_formula": "Ca(LaTe2)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "C2S5",
+    "source_material_id": "mp-1215005",
+    "source_formula": "CS5",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BiBAu3",
+    "source_material_id": "mp-1006880",
+    "source_formula": "BiB",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al5FeS4",
+    "source_material_id": "mp-1251086",
+    "source_formula": "Al5(FeO4)3",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AlH12C4AsF4",
+    "source_material_id": "mp-1228596",
+    "source_formula": "AlH12C4NF4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al5C3",
+    "source_material_id": "mp-5496",
+    "source_formula": "Al5C3N",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaLaTe2Ga2",
+    "source_material_id": "mp-36031",
+    "source_formula": "Ca(LaTe2)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca5Al2SiN4Rb3",
+    "source_material_id": "mp-866314",
+    "source_formula": "Ca5Al2(SiN4)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AsCSCl4F9",
+    "source_material_id": "mp-561244",
+    "source_formula": "AsCSCl2F9",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi3Se4F",
+    "source_material_id": "mp-1178488",
+    "source_formula": "Bi3O4F",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BiAuBr5",
+    "source_material_id": "mp-541774",
+    "source_formula": "BiAuBr6",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaCeTe2",
+    "source_material_id": "mp-36031",
+    "source_formula": "Ca(LaTe2)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al2W3CuS8",
+    "source_material_id": "mp-1228975",
+    "source_formula": "Al2Cr3CuS8",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al2Cr3CuTe8",
+    "source_material_id": "mp-1228975",
+    "source_formula": "Al2Cr3CuS8",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CaPIrLi3",
+    "source_material_id": "mp-11168",
+    "source_formula": "Ca(PIr)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AlPTe4",
+    "source_material_id": "mp-675771",
+    "source_formula": "AlPO4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgBiAsS3",
+    "source_material_id": "mp-556434",
+    "source_formula": "AgBi(PS3)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "CuAsBr4",
+    "source_material_id": "mp-2646989",
+    "source_formula": "AgAsBr4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ag3AsSe3Pb",
+    "source_material_id": "mp-662599",
+    "source_formula": "Ag3AsSe3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al5N",
+    "source_material_id": "mp-5496",
+    "source_formula": "Al5C3N",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca3N",
+    "source_material_id": "mp-13146",
+    "source_formula": "Ca3N2",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AuAsBr4",
+    "source_material_id": "mp-2646989",
+    "source_formula": "AgAsBr4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca3Tl4Se9",
+    "source_material_id": "mp-1227625",
+    "source_formula": "Ca3Tl4O9",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BH5NClCe2",
+    "source_material_id": "mp-1106172",
+    "source_formula": "BH5NCl",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi4RuI2N3",
+    "source_material_id": "mp-541771",
+    "source_formula": "Bi4RuI2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgBiPbS2",
+    "source_material_id": "mp-1229081",
+    "source_formula": "AgSb(PbS2)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "As2RuSc2",
+    "source_material_id": "mp-766",
+    "source_formula": "As2Ru",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi11Se3Cl3",
+    "source_material_id": "mp-1228808",
+    "source_formula": "Bi11(Se4Cl3)3",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca2Al4Si4Te17",
+    "source_material_id": "mp-1203830",
+    "source_formula": "Ca2Al4Si4O17",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AsCSF9",
+    "source_material_id": "mp-561244",
+    "source_formula": "AsCSCl2F9",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi19S9BrNa2",
+    "source_material_id": "mp-1228012",
+    "source_formula": "Bi19(S9Br)3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca3Ta2Te8",
+    "source_material_id": "mp-769381",
+    "source_formula": "Ca3Ta2O8",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca4P2",
+    "source_material_id": "mp-5380",
+    "source_formula": "Ca4P2O",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgSbPbTe2",
+    "source_material_id": "mp-1229081",
+    "source_formula": "AgSb(PbS2)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "PIr",
+    "source_material_id": "mp-11168",
+    "source_formula": "Ca(PIr)2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al2CN2",
+    "source_material_id": "mp-1376593",
+    "source_formula": "B2(CN2)3",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AlH12C4NF4Se2",
+    "source_material_id": "mp-1228596",
+    "source_formula": "AlH12C4NF4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca5Al2SiP4",
+    "source_material_id": "mp-866314",
+    "source_formula": "Ca5Al2(SiN4)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi4RuI2Rb",
+    "source_material_id": "mp-541771",
+    "source_formula": "Bi4RuI2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "InH12C4NF4",
+    "source_material_id": "mp-1228596",
+    "source_formula": "AlH12C4NF4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BF4",
+    "source_material_id": "mp-27896",
+    "source_formula": "BF3",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AuSeClTe3",
+    "source_material_id": "mp-560549",
+    "source_formula": "AuSeClO3",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca14GaAs11Mg2",
+    "source_material_id": "mp-568790",
+    "source_formula": "Ca14GaAs11",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al3H10N",
+    "source_material_id": "mp-1196163",
+    "source_formula": "B3H10N",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BH6Ge2N5F4",
+    "source_material_id": "mp-1199055",
+    "source_formula": "BH6C2N5F4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Al2Zn2S5Mg3",
+    "source_material_id": "mp-1096787",
+    "source_formula": "Al2Zn2S5",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "C6S3P3Cl",
+    "source_material_id": "mp-722472",
+    "source_formula": "C6S3(N3Cl)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca14GaAs10",
+    "source_material_id": "mp-568790",
+    "source_formula": "Ca14GaAs11",
+    "perturbation_type": "stoichiometry",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BH6C2As5F4",
+    "source_material_id": "mp-1199055",
+    "source_formula": "BH6C2N5F4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ag2HgI4Br",
+    "source_material_id": "mp-1229122",
+    "source_formula": "Ag2HgI4",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BiAsTe4",
+    "source_material_id": "mp-27911",
+    "source_formula": "BiAsO4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BH2S3As3F4",
+    "source_material_id": "mp-1105132",
+    "source_formula": "BH2S3N3F4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AgAs3PbS6",
+    "source_material_id": "mp-1236920",
+    "source_formula": "AgSb3PbS6",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "GeCl",
+    "source_material_id": "mp-1214295",
+    "source_formula": "CCl",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "B5H2As",
+    "source_material_id": "mp-29306",
+    "source_formula": "B5(H2N)2",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "BeAlPt2Sc3",
+    "source_material_id": "mp-1097646",
+    "source_formula": "BeAlPt2",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "YCl7",
+    "source_material_id": "mp-755104",
+    "source_formula": "Ba2YCl7",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Bi11Se4Cl3Si",
+    "source_material_id": "mp-1228808",
+    "source_formula": "Bi11(Se4Cl3)3",
+    "perturbation_type": "fictitious",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ca3SiTe5",
+    "source_material_id": "mp-554141",
+    "source_formula": "Ca3SiO5",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "AlH2S3N3F4",
+    "source_material_id": "mp-1105132",
+    "source_formula": "BH2S3N3F4",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  },
+  {
+    "perturbed_formula": "Ra2PrSbO6",
+    "source_material_id": "mp-10731",
+    "source_formula": "Ba2PrSbO6",
+    "perturbation_type": "substitution",
+    "mp_api_response": []
+  }
+]

@@ -1,0 +1,2620 @@
+{
+  "real_materials": [
+    {
+      "material_id": "mp-1214710",
+      "formula": "BaAs2F12",
+      "band_gap": 3.988299999999999,
+      "formation_energy_per_atom": -2.789668554499999,
+      "density": 3.348409697283691
+    },
+    {
+      "material_id": "mp-1214295",
+      "formula": "CCl",
+      "band_gap": 2.1141,
+      "formation_energy_per_atom": 0.08850304890624901,
+      "density": 1.91777227584888
+    },
+    {
+      "material_id": "mp-1189906",
+      "formula": "Ca2CrSbO6",
+      "band_gap": 2.0309,
+      "formation_energy_per_atom": -2.706853443499999,
+      "density": 5.05308813561291
+    },
+    {
+      "material_id": "mp-1262001",
+      "formula": "Al2Mo2O7",
+      "band_gap": 0.5063000000000001,
+      "formation_energy_per_atom": -2.326478674545453,
+      "density": 4.580887168132784
+    },
+    {
+      "material_id": "mp-997009",
+      "formula": "BaAuO2",
+      "band_gap": 1.1892,
+      "formation_energy_per_atom": -1.783481409999999,
+      "density": 8.029159431668086
+    },
+    {
+      "material_id": "mp-2761491",
+      "formula": "Ba3Cr2O8",
+      "band_gap": 0.248899999999999,
+      "formation_energy_per_atom": -2.684082284999999,
+      "density": 5.181229767508944
+    },
+    {
+      "material_id": "mp-1369592",
+      "formula": "Ca2SbWO6",
+      "band_gap": 1.4767000000000001,
+      "formation_energy_per_atom": -2.529327250999999,
+      "density": 5.847981469619925
+    },
+    {
+      "material_id": "mp-909",
+      "formula": "As2Se3",
+      "band_gap": 1.4466,
+      "formation_energy_per_atom": -0.139482853937499,
+      "density": 4.573186524611719
+    },
+    {
+      "material_id": "mp-1228596",
+      "formula": "AlH12C4NF4",
+      "band_gap": 7.0013,
+      "formation_energy_per_atom": -1.005940588636363,
+      "density": 1.159407672422558
+    },
+    {
+      "material_id": "mp-1197843",
+      "formula": "Ca5(SiO5)2",
+      "band_gap": 0.5149,
+      "formation_energy_per_atom": -3.181888625294117,
+      "density": 2.754724829563208
+    },
+    {
+      "material_id": "mp-821363",
+      "formula": "Ba7Fe6(OF16)2",
+      "band_gap": 0.822399999999999,
+      "formation_energy_per_atom": -3.144099555106383,
+      "density": 4.269128143611494
+    },
+    {
+      "material_id": "mp-726927",
+      "formula": "BOs3(CO)10",
+      "band_gap": 0.09590000000000001,
+      "formation_energy_per_atom": -0.7822372403819451,
+      "density": 3.271033699872163
+    },
+    {
+      "material_id": "mp-1227625",
+      "formula": "Ca3Tl4O9",
+      "band_gap": 0.8115999999999991,
+      "formation_energy_per_atom": -1.9309279923958362,
+      "density": 7.9705131750211855
+    },
+    {
+      "material_id": "mp-510571",
+      "formula": "BaNpPH2O7",
+      "band_gap": 0.073599999999999,
+      "formation_energy_per_atom": -2.792048846324404,
+      "density": 5.336491213302271
+    },
+    {
+      "material_id": "mp-1228110",
+      "formula": "Ba3TiZnWO9",
+      "band_gap": 3.081699999999999,
+      "formation_energy_per_atom": -2.929323469888889,
+      "density": 6.545418016184849
+    },
+    {
+      "material_id": "mp-1046286",
+      "formula": "Ca2Ta2WO8",
+      "band_gap": 0.181599999999999,
+      "formation_energy_per_atom": -2.916613211897435,
+      "density": 7.405996050909242
+    },
+    {
+      "material_id": "mp-1215052",
+      "formula": "Ba2EuV3O11",
+      "band_gap": 0.035099999999999,
+      "formation_energy_per_atom": -2.87824284382353,
+      "density": 4.593262668168525
+    },
+    {
+      "material_id": "mp-1182823",
+      "formula": "Ba(H9O5)2",
+      "band_gap": 0.622899999999999,
+      "formation_energy_per_atom": -0.853394409310344,
+      "density": 1.616531322803886
+    },
+    {
+      "material_id": "mp-29306",
+      "formula": "B5(H2N)2",
+      "band_gap": 2.884299999999999,
+      "formation_energy_per_atom": -0.08895856601515201,
+      "density": 1.055267720027524
+    },
+    {
+      "material_id": "mp-1106172",
+      "formula": "BH5NCl",
+      "band_gap": 5.4121,
+      "formation_energy_per_atom": -0.5912155075520841,
+      "density": 1.152572785439296
+    },
+    {
+      "material_id": "mp-553897",
+      "formula": "Ba2Si3O8",
+      "band_gap": 4.812799999999999,
+      "formation_energy_per_atom": -3.377156034615385,
+      "density": 3.954539844818521
+    },
+    {
+      "material_id": "mp-1522306",
+      "formula": "BaSrNdNbO6",
+      "band_gap": 2.8698,
+      "formation_energy_per_atom": -3.31678432675,
+      "density": 5.69706976320107
+    },
+    {
+      "material_id": "mp-669377",
+      "formula": "Ba2CaWN4",
+      "band_gap": 1.8491,
+      "formation_energy_per_atom": -1.1438251190625,
+      "density": 6.144784136991627
+    },
+    {
+      "material_id": "mp-1251086",
+      "formula": "Al5(FeO4)3",
+      "band_gap": 1.1491999999999991,
+      "formation_energy_per_atom": -2.69449454875,
+      "density": 3.9764665356791653
+    },
+    {
+      "material_id": "mp-6943",
+      "formula": "Ca4GdB3O10",
+      "band_gap": 3.3154,
+      "formation_energy_per_atom": -3.377505096527777,
+      "density": 3.655241038362295
+    },
+    {
+      "material_id": "mp-1214662",
+      "formula": "BaP2(HO3)2",
+      "band_gap": 2.9723,
+      "formation_energy_per_atom": -1.999416821980519,
+      "density": 2.637598998842244
+    },
+    {
+      "material_id": "mp-768350",
+      "formula": "Ba2YF7",
+      "band_gap": 6.7600999999999996,
+      "formation_energy_per_atom": -4.2182876765,
+      "density": 4.517785395738086
+    },
+    {
+      "material_id": "mp-1366540",
+      "formula": "Ca2TaMoO6",
+      "band_gap": 1.4283000000000001,
+      "formation_energy_per_atom": -3.083761082733332,
+      "density": 5.895943705310703
+    },
+    {
+      "material_id": "mp-556434",
+      "formula": "AgBi(PS3)2",
+      "band_gap": 1.183799999999999,
+      "formation_energy_per_atom": -0.33882521078273803,
+      "density": 4.147865928609672
+    },
+    {
+      "material_id": "mp-1033527",
+      "formula": "BaSrMg6O8",
+      "band_gap": 3.9136,
+      "formation_energy_per_atom": -2.641180481874999,
+      "density": 3.937410226995706
+    },
+    {
+      "material_id": "mp-1517564",
+      "formula": "BaCaCeZrO6",
+      "band_gap": 2.1986,
+      "formation_energy_per_atom": -3.5812956865,
+      "density": 5.43160187120732
+    },
+    {
+      "material_id": "mp-2017611",
+      "formula": "BaO6",
+      "band_gap": 0.0177,
+      "formation_energy_per_atom": -0.8982260400000001,
+      "density": 3.399564978441192
+    },
+    {
+      "material_id": "mp-8570",
+      "formula": "Ba3Zr2S7",
+      "band_gap": 1.005799999999999,
+      "formation_energy_per_atom": -2.149402541875,
+      "density": 4.184248212763276
+    },
+    {
+      "material_id": "mp-699455",
+      "formula": "Al3P3H9C3NO14",
+      "band_gap": 4.978899999999999,
+      "formation_energy_per_atom": -1.9528037551569262,
+      "density": 2.088906388392167
+    },
+    {
+      "material_id": "mp-780739",
+      "formula": "Ca2FeP2(H2O3)4",
+      "band_gap": 2.2875,
+      "formation_energy_per_atom": -2.1663823813714282,
+      "density": 2.723619104222583
+    },
+    {
+      "material_id": "mp-1105132",
+      "formula": "BH2S3N3F4",
+      "band_gap": 2.348,
+      "formation_energy_per_atom": -1.185351720705127,
+      "density": 0.8792189412677641
+    },
+    {
+      "material_id": "mp-1227303",
+      "formula": "BaTaNO2",
+      "band_gap": 0.33980000000000005,
+      "formation_energy_per_atom": -2.6317179504666672,
+      "density": 8.542674057494262
+    },
+    {
+      "material_id": "mp-557103",
+      "formula": "B5Pb2ClO9",
+      "band_gap": 3.4978,
+      "formation_energy_per_atom": -2.564297677107843,
+      "density": 4.869209218724268
+    },
+    {
+      "material_id": "mp-699467",
+      "formula": "B3H12CN4O",
+      "band_gap": 3.0495,
+      "formation_energy_per_atom": -0.250194796666666,
+      "density": 1.1204237990343011
+    },
+    {
+      "material_id": "mp-1200764",
+      "formula": "AlH8N2O2F5",
+      "band_gap": 6.0133,
+      "formation_energy_per_atom": -1.634541797499999,
+      "density": 2.082246838345155
+    },
+    {
+      "material_id": "mp-996968",
+      "formula": "AgBiO2",
+      "band_gap": 1.6897,
+      "formation_energy_per_atom": -1.113817327916666,
+      "density": 7.696995053708715
+    },
+    {
+      "material_id": "mp-1214763",
+      "formula": "AsC3S3NF10",
+      "band_gap": 0.6846,
+      "formation_energy_per_atom": -1.476241878333333,
+      "density": 2.3943909349314483
+    },
+    {
+      "material_id": "mp-1228975",
+      "formula": "Al2Cr3CuS8",
+      "band_gap": 0.13570000000000002,
+      "formation_energy_per_atom": -1.1090711564285711,
+      "density": 3.548046548801847
+    },
+    {
+      "material_id": "mp-685446",
+      "formula": "BaNb8O14",
+      "band_gap": 0.3219,
+      "formation_energy_per_atom": -2.836322681521739,
+      "density": 5.9961493082759585
+    },
+    {
+      "material_id": "mp-1374903",
+      "formula": "Ca3Mn2(SbO6)2",
+      "band_gap": 0.5124000000000001,
+      "formation_energy_per_atom": -2.332704721361161,
+      "density": 4.839789294479987
+    },
+    {
+      "material_id": "mp-755417",
+      "formula": "Ba3(BO3)2",
+      "band_gap": 4.4465,
+      "formation_energy_per_atom": -3.150879008484848,
+      "density": 4.913167000857776
+    },
+    {
+      "material_id": "mp-625762",
+      "formula": "Al(HO)3",
+      "band_gap": 4.7202,
+      "formation_energy_per_atom": -2.013686492857143,
+      "density": 2.376913096081751
+    },
+    {
+      "material_id": "mp-18977",
+      "formula": "Ba2CaWO6",
+      "band_gap": 3.183,
+      "formation_energy_per_atom": -3.02969635,
+      "density": 6.377210092501664
+    },
+    {
+      "material_id": "mp-1047946",
+      "formula": "BaCaFeF7",
+      "band_gap": 3.9013,
+      "formation_energy_per_atom": -3.5729431895,
+      "density": 4.007076089061146
+    },
+    {
+      "material_id": "mp-1195039",
+      "formula": "Ba2Zn2TeP2O11",
+      "band_gap": 4.1025,
+      "formation_energy_per_atom": -2.639456902691799,
+      "density": 4.576565348237934
+    },
+    {
+      "material_id": "mp-1034854",
+      "formula": "BaMg14NiO16",
+      "band_gap": 3.750199999999999,
+      "formation_energy_per_atom": -2.725633702812501,
+      "density": 3.844737168660496
+    },
+    {
+      "material_id": "mp-769049",
+      "formula": "BaLaCl5",
+      "band_gap": 3.7969,
+      "formation_energy_per_atom": -2.827429753928572,
+      "density": 3.618810331140084
+    },
+    {
+      "material_id": "mp-634117",
+      "formula": "BH3",
+      "band_gap": 5.3252,
+      "formation_energy_per_atom": -0.0449355434375,
+      "density": 0.6245518580087981
+    },
+    {
+      "material_id": "mp-6414",
+      "formula": "Ca3Cr2(SiO4)3",
+      "band_gap": 3.247699999999999,
+      "formation_energy_per_atom": -3.191363566999984,
+      "density": 3.833532019909309
+    },
+    {
+      "material_id": "mp-1283250",
+      "formula": "BaCoO3",
+      "band_gap": 1.1424,
+      "formation_energy_per_atom": -2.046802816999999,
+      "density": 5.891197337198422
+    },
+    {
+      "material_id": "mp-1102681",
+      "formula": "CN2",
+      "band_gap": 3.6068,
+      "formation_energy_per_atom": 0.569716239166665,
+      "density": 3.692644072480023
+    },
+    {
+      "material_id": "mp-1046381",
+      "formula": "Ba2AlTlCo2O7",
+      "band_gap": 0.0317,
+      "formation_energy_per_atom": -2.075564499102566,
+      "density": 6.199589411959298
+    },
+    {
+      "material_id": "mp-866314",
+      "formula": "Ca5Al2(SiN4)2",
+      "band_gap": 2.7945,
+      "formation_energy_per_atom": -1.381626434117646,
+      "density": 3.140460891226038
+    },
+    {
+      "material_id": "mp-6183",
+      "formula": "Ba2PrRuO6",
+      "band_gap": 0.16360000000000002,
+      "formation_energy_per_atom": -2.741390882166667,
+      "density": 6.548054524182577
+    },
+    {
+      "material_id": "mp-1228444",
+      "formula": "BaFeP3H2O11",
+      "band_gap": 2.617099999999999,
+      "formation_energy_per_atom": -2.506787597023809,
+      "density": 3.481034272706165
+    },
+    {
+      "material_id": "mp-1095980",
+      "formula": "BaCaTl2",
+      "band_gap": 0.0543,
+      "formation_energy_per_atom": 1.244370235833329,
+      "density": 0.5439419355610741
+    },
+    {
+      "material_id": "mp-1193238",
+      "formula": "Ag2Te(H2O3)2",
+      "band_gap": 0.7501000000000001,
+      "formation_energy_per_atom": -1.096259264615384,
+      "density": 5.266986817585312
+    },
+    {
+      "material_id": "mp-1254277",
+      "formula": "AlFeO3",
+      "band_gap": 1.3295,
+      "formation_energy_per_atom": -2.286588009499999,
+      "density": 4.8435948356114125
+    },
+    {
+      "material_id": "mp-1228420",
+      "formula": "BaLa8Co(Si3O13)2",
+      "band_gap": 2.6382,
+      "formation_energy_per_atom": -3.56873703047619,
+      "density": 5.204996562438574
+    },
+    {
+      "material_id": "mp-626735",
+      "formula": "BaH4O3",
+      "band_gap": 3.9758,
+      "formation_energy_per_atom": -1.761972936249999,
+      "density": 3.439710996406966
+    },
+    {
+      "material_id": "mp-1202733",
+      "formula": "BPb2O3F",
+      "band_gap": 3.1984,
+      "formation_energy_per_atom": -2.266858759642855,
+      "density": 6.940766691741002
+    },
+    {
+      "material_id": "mp-720904",
+      "formula": "BaH8PtC4(NO)4",
+      "band_gap": 1.501199999999999,
+      "formation_energy_per_atom": -0.797838705454545,
+      "density": 3.060646978324293
+    },
+    {
+      "material_id": "mp-1200496",
+      "formula": "Ba3B(BrO)3",
+      "band_gap": 3.7561,
+      "formation_energy_per_atom": -2.926992053416666,
+      "density": 4.570627318376227
+    },
+    {
+      "material_id": "mp-1228220",
+      "formula": "Ba4La2SbRuO12",
+      "band_gap": 0.7580999999999991,
+      "formation_energy_per_atom": -2.905572134,
+      "density": 6.300569229046587
+    },
+    {
+      "material_id": "mp-1214296",
+      "formula": "BaTi(PO4)2",
+      "band_gap": 2.592399999999999,
+      "formation_energy_per_atom": -3.190398111051586,
+      "density": 3.647595593286182
+    },
+    {
+      "material_id": "mp-1522918",
+      "formula": "BaSrGdNbO6",
+      "band_gap": 2.801,
+      "formation_energy_per_atom": -3.415754519499999,
+      "density": 6.162116266852937
+    },
+    {
+      "material_id": "mp-10089",
+      "formula": "Ba5Sb4",
+      "band_gap": 0.264899999999999,
+      "formation_energy_per_atom": -1.137742783333328,
+      "density": 5.148712487608282
+    },
+    {
+      "material_id": "mp-5380",
+      "formula": "Ca4P2O",
+      "band_gap": 1.2714,
+      "formation_energy_per_atom": -1.770557722040813,
+      "density": 2.598231990220828
+    },
+    {
+      "material_id": "mp-14972",
+      "formula": "Ba3Sc(BO3)3",
+      "band_gap": 3.4727,
+      "formation_energy_per_atom": -3.282306826927083,
+      "density": 4.7095719796067375
+    },
+    {
+      "material_id": "mp-1228131",
+      "formula": "Ba4Nb2WO12",
+      "band_gap": 2.7361,
+      "formation_energy_per_atom": -3.103403415789473,
+      "density": 6.476315076928309
+    },
+    {
+      "material_id": "mp-17399",
+      "formula": "Ba5Sb4",
+      "band_gap": 0.292199999999999,
+      "formation_energy_per_atom": -1.137728519166661,
+      "density": 5.152783630340577
+    },
+    {
+      "material_id": "mp-5020",
+      "formula": "BaTiO3",
+      "band_gap": 2.5086999999999993,
+      "formation_energy_per_atom": -3.492236987666666,
+      "density": 5.89961040436988
+    },
+    {
+      "material_id": "mp-755206",
+      "formula": "Ca2Ti6N2O11",
+      "band_gap": 1.9808000000000001,
+      "formation_energy_per_atom": -3.1492670226190462,
+      "density": 3.647216659896756
+    },
+    {
+      "material_id": "mp-1214196",
+      "formula": "Ca2ZnAs2(H2O5)2",
+      "band_gap": 3.3532,
+      "formation_energy_per_atom": -2.052320823421052,
+      "density": 3.616348695077516
+    },
+    {
+      "material_id": "mp-1228012",
+      "formula": "Bi19(S9Br)3",
+      "band_gap": 1.3293,
+      "formation_energy_per_atom": -0.6773899513775511,
+      "density": 6.585400519777913
+    },
+    {
+      "material_id": "mp-554056",
+      "formula": "Ca2B5BrO9",
+      "band_gap": 5.1916,
+      "formation_energy_per_atom": -3.007398653578431,
+      "density": 2.860685282422609
+    },
+    {
+      "material_id": "mp-646218",
+      "formula": "BaY(CoO2)4",
+      "band_gap": 0.6661,
+      "formation_energy_per_atom": -1.946199657589285,
+      "density": 5.403290203538376
+    },
+    {
+      "material_id": "mp-1201761",
+      "formula": "BaCu(SiO3)2",
+      "band_gap": 0.010599999999999,
+      "formation_energy_per_atom": -2.83535913025,
+      "density": 4.080076050068841
+    },
+    {
+      "material_id": "mp-760067",
+      "formula": "Ba2LiVP2O9",
+      "band_gap": 2.0816,
+      "formation_energy_per_atom": -2.95243719384127,
+      "density": 3.9527635368046363
+    },
+    {
+      "material_id": "mp-568790",
+      "formula": "Ca14GaAs11",
+      "band_gap": 0.597399999999999,
+      "formation_energy_per_atom": -1.1437299875,
+      "density": 3.679583223171533
+    },
+    {
+      "material_id": "mp-1075974",
+      "formula": "Ba3Sr5Ti7MnO24",
+      "band_gap": 0.81,
+      "formation_energy_per_atom": -3.38731642378161,
+      "density": 5.372249165023759
+    },
+    {
+      "material_id": "mp-541774",
+      "formula": "BiAuBr6",
+      "band_gap": 1.1255,
+      "formation_energy_per_atom": -0.8604228800000001,
+      "density": 5.068476003855858
+    },
+    {
+      "material_id": "mp-1078845",
+      "formula": "C",
+      "band_gap": 3.3272999999999993,
+      "formation_energy_per_atom": 0.267769908749999,
+      "density": 3.461273443244769
+    },
+    {
+      "material_id": "mp-1518033",
+      "formula": "Ba2NdNbO6",
+      "band_gap": 2.9194999999999993,
+      "formation_energy_per_atom": -3.362365876749999,
+      "density": 6.15813894483782
+    },
+    {
+      "material_id": "mp-1229081",
+      "formula": "AgSb(PbS2)2",
+      "band_gap": 0.09809999999999901,
+      "formation_energy_per_atom": -0.534248575208331,
+      "density": 6.430269642082305
+    },
+    {
+      "material_id": "mp-1214726",
+      "formula": "Ba2FeBrO3",
+      "band_gap": 1.4511,
+      "formation_energy_per_atom": -2.4674963357142863,
+      "density": 5.562446721887629
+    },
+    {
+      "material_id": "mp-1234820",
+      "formula": "Ba2MgMo4(Se2O11)2",
+      "band_gap": 2.0203,
+      "formation_energy_per_atom": -1.958767887405302,
+      "density": 4.17953628158326
+    },
+    {
+      "material_id": "mp-560549",
+      "formula": "AuSeClO3",
+      "band_gap": 1.3674,
+      "formation_energy_per_atom": -0.915634184140625,
+      "density": 4.926911402086227
+    },
+    {
+      "material_id": "mp-2218091",
+      "formula": "Ba2TbMgSbO6",
+      "band_gap": 0.43920000000000003,
+      "formation_energy_per_atom": -2.541674031060605,
+      "density": 5.82042782749323
+    },
+    {
+      "material_id": "mp-1048108",
+      "formula": "BaTi4AlO7",
+      "band_gap": 0.27640000000000003,
+      "formation_energy_per_atom": -2.940419334871794,
+      "density": 4.758337681632265
+    },
+    {
+      "material_id": "mp-1517808",
+      "formula": "BaSrLaWO6",
+      "band_gap": 2.035999999999999,
+      "formation_energy_per_atom": -3.06318389525,
+      "density": 6.606473843170467
+    },
+    {
+      "material_id": "mp-1245831",
+      "formula": "Ba3ScN3",
+      "band_gap": 0.195,
+      "formation_energy_per_atom": -0.729944432857143,
+      "density": 4.608871912149108
+    },
+    {
+      "material_id": "mp-1519688",
+      "formula": "BaCaNdNbO6",
+      "band_gap": 2.8393,
+      "formation_energy_per_atom": -3.236454222750001,
+      "density": 5.262954635779052
+    },
+    {
+      "material_id": "mp-29301",
+      "formula": "Ba4Ga2S7",
+      "band_gap": 2.6355,
+      "formation_energy_per_atom": -1.871609945961537,
+      "density": 4.10968412886205
+    },
+    {
+      "material_id": "mp-1520754",
+      "formula": "BaNbInSnO6",
+      "band_gap": 2.673,
+      "formation_energy_per_atom": -2.476433066166667,
+      "density": 6.3869980491268095
+    },
+    {
+      "material_id": "mp-1203830",
+      "formula": "Ca2Al4Si4O17",
+      "band_gap": 0.32230000000000003,
+      "formation_energy_per_atom": -3.158445702962963,
+      "density": 2.274173292915995
+    },
+    {
+      "material_id": "mp-28150",
+      "formula": "BaNb2O6",
+      "band_gap": 2.6146000000000003,
+      "formation_energy_per_atom": -3.216098964999999,
+      "density": 5.294185871731757
+    },
+    {
+      "material_id": "mp-23332",
+      "formula": "BiPO4",
+      "band_gap": 2.0415,
+      "formation_energy_per_atom": -1.468339534107143,
+      "density": 5.984777066278992
+    },
+    {
+      "material_id": "mp-720391",
+      "formula": "BH4NF4",
+      "band_gap": 7.481199999999999,
+      "formation_energy_per_atom": -1.969816386166667,
+      "density": 1.860992408002848
+    },
+    {
+      "material_id": "mp-1256235",
+      "formula": "Al4V13Si2(SbO14)2",
+      "band_gap": 0.5661,
+      "formation_energy_per_atom": -2.465976968163264,
+      "density": 4.322457148156329
+    },
+    {
+      "material_id": "mp-1036861",
+      "formula": "BaMg30NiO32",
+      "band_gap": 3.727999999999999,
+      "formation_energy_per_atom": -2.898417853593749,
+      "density": 3.685510094895001
+    },
+    {
+      "material_id": "mp-1006880",
+      "formula": "BiB",
+      "band_gap": 0.0922,
+      "formation_energy_per_atom": 0.8213030854166661,
+      "density": 8.574936006540474
+    },
+    {
+      "material_id": "mp-1227817",
+      "formula": "BaSr2In2O6",
+      "band_gap": 1.0175,
+      "formation_energy_per_atom": -2.534151714848485,
+      "density": 5.740673241726368
+    },
+    {
+      "material_id": "mp-1188347",
+      "formula": "C3N2",
+      "band_gap": 3.745799999999999,
+      "formation_energy_per_atom": 0.26470733749999903,
+      "density": 3.234685701946518
+    },
+    {
+      "material_id": "mp-1095738",
+      "formula": "BaCdHg2",
+      "band_gap": 0.022799999999999,
+      "formation_energy_per_atom": 0.628576033749997,
+      "density": 0.623447027684602
+    },
+    {
+      "material_id": "mp-1236920",
+      "formula": "AgSb3PbS6",
+      "band_gap": 1.2338,
+      "formation_energy_per_atom": -0.44389006606060405,
+      "density": 4.416532852230934
+    },
+    {
+      "material_id": "mp-1214926",
+      "formula": "Ag2SnHgS4",
+      "band_gap": 0.015699999999999003,
+      "formation_energy_per_atom": -0.469528931979166,
+      "density": 5.361600318849351
+    },
+    {
+      "material_id": "mp-1645095",
+      "formula": "CaCr(GeO3)2",
+      "band_gap": 0.690399999999999,
+      "formation_energy_per_atom": -2.402879968749999,
+      "density": 4.262478569973958
+    },
+    {
+      "material_id": "mp-7841",
+      "formula": "Ba(GaSe2)2",
+      "band_gap": 1.8578000000000001,
+      "formation_energy_per_atom": -1.36306374919643,
+      "density": 4.745645848121506
+    },
+    {
+      "material_id": "mp-1195160",
+      "formula": "Al2Cu2Bi2S3Cl8",
+      "band_gap": 1.2722,
+      "formation_energy_per_atom": -1.349249576911765,
+      "density": 3.667917346704007
+    },
+    {
+      "material_id": "mp-5770",
+      "formula": "AgNO2",
+      "band_gap": 1.7868,
+      "formation_energy_per_atom": -0.49077906666666504,
+      "density": 4.04146482234625
+    },
+    {
+      "material_id": "mp-555658",
+      "formula": "Bi2MoO6",
+      "band_gap": 0.5192999999999991,
+      "formation_energy_per_atom": -1.811330476666667,
+      "density": 8.054865994258897
+    },
+    {
+      "material_id": "mp-1376593",
+      "formula": "B2(CN2)3",
+      "band_gap": 2.537099999999999,
+      "formation_energy_per_atom": -0.210386102727273,
+      "density": 1.374347182230715
+    },
+    {
+      "material_id": "mp-1520390",
+      "formula": "BaLaEuSbO6",
+      "band_gap": 0.25170000000000003,
+      "formation_energy_per_atom": -3.002975984500001,
+      "density": 6.703867564462886
+    },
+    {
+      "material_id": "mp-1190176",
+      "formula": "Ba3Sn2",
+      "band_gap": 0.37470000000000003,
+      "formation_energy_per_atom": -0.641007972999998,
+      "density": 5.311311249093199
+    },
+    {
+      "material_id": "mp-1215005",
+      "formula": "CS5",
+      "band_gap": 0.539299999999999,
+      "formation_energy_per_atom": 0.679967819523807,
+      "density": 0.47524868502008005
+    },
+    {
+      "material_id": "mp-541771",
+      "formula": "Bi4RuI2",
+      "band_gap": 0.165,
+      "formation_energy_per_atom": -0.32209606642856503,
+      "density": 7.708372345591589
+    },
+    {
+      "material_id": "mp-1214121",
+      "formula": "Ca2NbFeO6",
+      "band_gap": 2.087099999999999,
+      "formation_energy_per_atom": -2.941695491999999,
+      "density": 4.4603452641282715
+    },
+    {
+      "material_id": "mp-1097646",
+      "formula": "BeAlPt2",
+      "band_gap": 1.469599999999999,
+      "formation_energy_per_atom": 1.6397188737500001,
+      "density": 1.073699033611491
+    },
+    {
+      "material_id": "mp-1228582",
+      "formula": "Ba4Sr2Sm2Co4O15",
+      "band_gap": 1.3519,
+      "formation_energy_per_atom": -2.584264977407408,
+      "density": 6.041148700576408
+    },
+    {
+      "material_id": "mp-11168",
+      "formula": "Ca(PIr)2",
+      "band_gap": 0.494299999999999,
+      "formation_energy_per_atom": -1.017184773190479,
+      "density": 9.02213605303809
+    },
+    {
+      "material_id": "mp-758571",
+      "formula": "Al11TlO17",
+      "band_gap": 4.590300000000001,
+      "formation_energy_per_atom": -3.308075045114943,
+      "density": 4.018034570086314
+    },
+    {
+      "material_id": "mp-1205833",
+      "formula": "Ba2NbRhO6",
+      "band_gap": 0.8889,
+      "formation_energy_per_atom": -2.733223787000001,
+      "density": 6.787146106307911
+    },
+    {
+      "material_id": "mp-753673",
+      "formula": "BiOF",
+      "band_gap": 2.4964,
+      "formation_energy_per_atom": -2.132821128333335,
+      "density": 8.376865067688806
+    },
+    {
+      "material_id": "mp-1046291",
+      "formula": "Bi5(TeO6)3",
+      "band_gap": 0.243599999999999,
+      "formation_energy_per_atom": -1.411728500384617,
+      "density": 6.58255008478636
+    },
+    {
+      "material_id": "mp-8291",
+      "formula": "BaTiF6",
+      "band_gap": 4.3236,
+      "formation_energy_per_atom": -3.974811880416666,
+      "density": 4.327967542123751
+    },
+    {
+      "material_id": "mp-1096787",
+      "formula": "Al2Zn2S5",
+      "band_gap": 0.0444,
+      "formation_energy_per_atom": -1.023891978308531,
+      "density": 3.177001212971817
+    },
+    {
+      "material_id": "mp-760162",
+      "formula": "BiOF",
+      "band_gap": 3.5183,
+      "formation_energy_per_atom": -2.198648160000001,
+      "density": 7.731487580667601
+    },
+    {
+      "material_id": "mp-1245788",
+      "formula": "Ba(ZnN)2",
+      "band_gap": 0.5185000000000001,
+      "formation_energy_per_atom": -0.292137242,
+      "density": 5.376101319128463
+    },
+    {
+      "material_id": "mp-1256464",
+      "formula": "Ba7SiB3NO13",
+      "band_gap": 0.6212,
+      "formation_energy_per_atom": -2.9433119635000002,
+      "density": 4.933111108933928
+    },
+    {
+      "material_id": "mp-2646989",
+      "formula": "AgAsBr4",
+      "band_gap": 1.0937000000000001,
+      "formation_energy_per_atom": -0.7347869206944441,
+      "density": 4.233172720720414
+    },
+    {
+      "material_id": "mp-36031",
+      "formula": "Ca(LaTe2)2",
+      "band_gap": 1.398299999999999,
+      "formation_energy_per_atom": -1.844963188809525,
+      "density": 6.014069427635227
+    },
+    {
+      "material_id": "mp-755421",
+      "formula": "Ca6HfO8",
+      "band_gap": 4.1479,
+      "formation_energy_per_atom": -3.4754916406666663,
+      "density": 4.18081994822687
+    },
+    {
+      "material_id": "mp-1214984",
+      "formula": "Ba(SO2)4",
+      "band_gap": 1.9978999999999991,
+      "formation_energy_per_atom": -1.503904174230768,
+      "density": 2.466390799055935
+    },
+    {
+      "material_id": "mp-769381",
+      "formula": "Ca3Ta2O8",
+      "band_gap": 4.5215,
+      "formation_energy_per_atom": -3.434431756897436,
+      "density": 4.986438291249453
+    },
+    {
+      "material_id": "mp-10731",
+      "formula": "Ba2PrSbO6",
+      "band_gap": 3.684,
+      "formation_energy_per_atom": -2.988008800166666,
+      "density": 6.361046962561844
+    },
+    {
+      "material_id": "mp-2230226",
+      "formula": "Ba6Mg(TiS5)2",
+      "band_gap": 0.11869999999999901,
+      "formation_energy_per_atom": -1.910810550350876,
+      "density": 3.77272065192036
+    },
+    {
+      "material_id": "mp-1201460",
+      "formula": "Ba5In3F19",
+      "band_gap": 4.7704,
+      "formation_energy_per_atom": -3.595638088101852,
+      "density": 5.033606274547091
+    },
+    {
+      "material_id": "mp-554410",
+      "formula": "Ba2LaRuO6",
+      "band_gap": 0.21960000000000002,
+      "formation_energy_per_atom": -2.7789291295,
+      "density": 6.285331682313968
+    },
+    {
+      "material_id": "mp-686434",
+      "formula": "Ca5Mg5P5O21F4",
+      "band_gap": 0.8222,
+      "formation_energy_per_atom": -3.271786113205356,
+      "density": 3.109315505271266
+    },
+    {
+      "material_id": "mp-722472",
+      "formula": "C6S3(N3Cl)2",
+      "band_gap": 0.508,
+      "formation_energy_per_atom": 0.542813569177756,
+      "density": 1.388537667020374
+    },
+    {
+      "material_id": "mp-1196163",
+      "formula": "B3H10N",
+      "band_gap": 5.9859,
+      "formation_energy_per_atom": -0.14304490148214402,
+      "density": 0.6299375412231201
+    },
+    {
+      "material_id": "mp-27911",
+      "formula": "BiAsO4",
+      "band_gap": 3.1697,
+      "formation_energy_per_atom": -1.7642850137500021,
+      "density": 7.183613842350864
+    },
+    {
+      "material_id": "mp-13146",
+      "formula": "Ca3N2",
+      "band_gap": 1.4173,
+      "formation_energy_per_atom": -0.8667898127499991,
+      "density": 2.759866377012208
+    },
+    {
+      "material_id": "mp-29036",
+      "formula": "Ba(YS2)2",
+      "band_gap": 1.7564000000000002,
+      "formation_energy_per_atom": -2.4151363792857152,
+      "density": 4.056958167744675
+    },
+    {
+      "material_id": "mp-674478",
+      "formula": "BaCO3",
+      "band_gap": 4.159499999999999,
+      "formation_energy_per_atom": -2.63287239,
+      "density": 3.698107340432591
+    },
+    {
+      "material_id": "mp-573677",
+      "formula": "Ba2Li3TaN4",
+      "band_gap": 2.3970000000000002,
+      "formation_energy_per_atom": -0.9867448322333331,
+      "density": 5.580010887120404
+    },
+    {
+      "material_id": "mp-11265",
+      "formula": "BaCaSn",
+      "band_gap": 0.24370000000000003,
+      "formation_energy_per_atom": -0.676116901666669,
+      "density": 4.263513451977776
+    },
+    {
+      "material_id": "mp-561244",
+      "formula": "AsCSCl2F9",
+      "band_gap": 3.8312,
+      "formation_energy_per_atom": -1.8996596083928572,
+      "density": 2.574422036325247
+    },
+    {
+      "material_id": "mp-6781",
+      "formula": "AgCNO",
+      "band_gap": 3.0696,
+      "formation_energy_per_atom": -0.509478052916667,
+      "density": 3.527186736876574
+    },
+    {
+      "material_id": "mp-1214400",
+      "formula": "CaAsNO11",
+      "band_gap": 0.20570000000000002,
+      "formation_energy_per_atom": -0.35105925803571303,
+      "density": 2.22910586726815
+    },
+    {
+      "material_id": "mp-1227755",
+      "formula": "Ca3MgFe2(CO3)6",
+      "band_gap": 3.8204000000000002,
+      "formation_energy_per_atom": -2.346875972833333,
+      "density": 3.043299985891877
+    },
+    {
+      "material_id": "mp-1205964",
+      "formula": "Ca2FeH6",
+      "band_gap": 1.500299999999999,
+      "formation_energy_per_atom": -0.6509286475,
+      "density": 2.760024956902113
+    },
+    {
+      "material_id": "mp-1236884",
+      "formula": "CaAl2Si3O10",
+      "band_gap": 4.6272,
+      "formation_energy_per_atom": -3.146547323125,
+      "density": 1.5615618463895111
+    },
+    {
+      "material_id": "mp-1233212",
+      "formula": "Ca(SiO2)6",
+      "band_gap": 2.6361,
+      "formation_energy_per_atom": -3.039874924210527,
+      "density": 2.506905638072419
+    },
+    {
+      "material_id": "mp-1227207",
+      "formula": "CaEuH6Ru",
+      "band_gap": 0.2073,
+      "formation_energy_per_atom": -0.6953411086111091,
+      "density": 4.923822634641273
+    },
+    {
+      "material_id": "mp-1228245",
+      "formula": "BaLa4Ti4O15",
+      "band_gap": 2.8881,
+      "formation_energy_per_atom": -3.71649078763889,
+      "density": 5.98616984321809
+    },
+    {
+      "material_id": "mp-662599",
+      "formula": "Ag3AsSe3",
+      "band_gap": 0.9037000000000001,
+      "formation_energy_per_atom": -0.302367482433035,
+      "density": 6.3310677588622415
+    },
+    {
+      "material_id": "mp-1229122",
+      "formula": "Ag2HgI4",
+      "band_gap": 1.276399999999999,
+      "formation_energy_per_atom": -0.5112391594047601,
+      "density": 5.746625628681051
+    },
+    {
+      "material_id": "mp-1389180",
+      "formula": "CaCoF4",
+      "band_gap": 2.9021,
+      "formation_energy_per_atom": -3.234448478333332,
+      "density": 3.694738835029422
+    },
+    {
+      "material_id": "mp-1182949",
+      "formula": "Al(HO)3",
+      "band_gap": 4.8485,
+      "formation_energy_per_atom": -2.019009386964286,
+      "density": 2.386010515274175
+    },
+    {
+      "material_id": "mp-12911",
+      "formula": "Ba2LaRuO6",
+      "band_gap": 0.24369999999999903,
+      "formation_energy_per_atom": -2.780421626499999,
+      "density": 6.284483432539392
+    },
+    {
+      "material_id": "mp-1521898",
+      "formula": "BaCaCeTiO6",
+      "band_gap": 2.1876,
+      "formation_energy_per_atom": -3.436572658333332,
+      "density": 5.180899672667361
+    },
+    {
+      "material_id": "mp-1178488",
+      "formula": "Bi3O4F",
+      "band_gap": 2.3098,
+      "formation_energy_per_atom": -1.8220440137500011,
+      "density": 8.035277017246871
+    },
+    {
+      "material_id": "mp-1333926",
+      "formula": "Ca(WO2)2",
+      "band_gap": 0.4181,
+      "formation_energy_per_atom": -1.965279690714285,
+      "density": 7.576740809886785
+    },
+    {
+      "material_id": "mp-12010",
+      "formula": "BaSeO4",
+      "band_gap": 3.7215,
+      "formation_energy_per_atom": -2.156183486640623,
+      "density": 4.855074792953051
+    },
+    {
+      "material_id": "mp-554141",
+      "formula": "Ca3SiO5",
+      "band_gap": 3.2699,
+      "formation_energy_per_atom": -3.377418933518519,
+      "density": 2.959187811183169
+    },
+    {
+      "material_id": "mp-1080186",
+      "formula": "CaAl2Si3O10",
+      "band_gap": 3.6394,
+      "formation_energy_per_atom": -3.0331219615625,
+      "density": 1.578272416361077
+    },
+    {
+      "material_id": "mp-1343599",
+      "formula": "CaFeP2O7",
+      "band_gap": 3.3507,
+      "formation_energy_per_atom": -2.798918775162337,
+      "density": 3.330647810138947
+    },
+    {
+      "material_id": "mp-1191267",
+      "formula": "AgClO4",
+      "band_gap": 2.6793,
+      "formation_energy_per_atom": -0.388566393194444,
+      "density": 4.11719966422717
+    },
+    {
+      "material_id": "mp-1199055",
+      "formula": "BH6C2N5F4",
+      "band_gap": 4.3443,
+      "formation_energy_per_atom": -1.161723789537037,
+      "density": 1.5654608228680762
+    },
+    {
+      "material_id": "mp-2713399",
+      "formula": "Ca2Ta4P6(SO12)3",
+      "band_gap": 3.1969,
+      "formation_energy_per_atom": -2.785922093621383,
+      "density": 3.502260347637863
+    },
+    {
+      "material_id": "mp-675771",
+      "formula": "AlPO4",
+      "band_gap": 1.1036,
+      "formation_energy_per_atom": -2.791094819107143,
+      "density": 1.6446686089446012
+    },
+    {
+      "material_id": "mp-1228808",
+      "formula": "Bi11(Se4Cl3)3",
+      "band_gap": 1.126599999999999,
+      "formation_energy_per_atom": -0.681748986992179,
+      "density": 6.258648628920963
+    },
+    {
+      "material_id": "mp-1369415",
+      "formula": "Ca3Co2(TeO6)2",
+      "band_gap": 0.7887999999999991,
+      "formation_energy_per_atom": -2.005776489649123,
+      "density": 4.911105009936291
+    },
+    {
+      "material_id": "mp-1195344",
+      "formula": "Ba4Ga4SnSe12",
+      "band_gap": 1.3292,
+      "formation_energy_per_atom": -1.445290525624999,
+      "density": 4.89537210890439
+    },
+    {
+      "material_id": "mp-1105231",
+      "formula": "Ba5P4",
+      "band_gap": 0.9422,
+      "formation_energy_per_atom": -1.010274563730141,
+      "density": 4.48490456719081
+    },
+    {
+      "material_id": "mp-769355",
+      "formula": "AgH3O2",
+      "band_gap": 1.396399999999999,
+      "formation_energy_per_atom": -0.94354993861111,
+      "density": 4.005088740433466
+    },
+    {
+      "material_id": "mp-5496",
+      "formula": "Al5C3N",
+      "band_gap": 1.4427,
+      "formation_energy_per_atom": -0.36906000999999905,
+      "density": 3.021355954208321
+    },
+    {
+      "material_id": "mp-696308",
+      "formula": "B3H7CO",
+      "band_gap": 4.0448,
+      "formation_energy_per_atom": -0.28314456052083303,
+      "density": 0.7866371017533461
+    },
+    {
+      "material_id": "mp-27896",
+      "formula": "BF3",
+      "band_gap": 8.1347,
+      "formation_energy_per_atom": -2.927657615937501,
+      "density": 2.176220938590456
+    },
+    {
+      "material_id": "mp-1190588",
+      "formula": "Ba2Cd(BO2)6",
+      "band_gap": 4.3316,
+      "formation_energy_per_atom": -2.895455095476189,
+      "density": 3.977258358340241
+    },
+    {
+      "material_id": "mp-1194400",
+      "formula": "Ca2AlH2OF7",
+      "band_gap": 6.5056,
+      "formation_energy_per_atom": -3.4212099871153843,
+      "density": 2.8090253820655873
+    },
+    {
+      "material_id": "mp-1182124",
+      "formula": "CaH6(SO4)4",
+      "band_gap": 3.766,
+      "formation_energy_per_atom": -1.570375475462961,
+      "density": 1.852126131105914
+    },
+    {
+      "material_id": "mp-541031",
+      "formula": "BaCrF5",
+      "band_gap": 3.5561,
+      "formation_energy_per_atom": -3.576210748928577,
+      "density": 4.832200756663215
+    },
+    {
+      "material_id": "mp-27540",
+      "formula": "Al(HO)3",
+      "band_gap": 5.009,
+      "formation_energy_per_atom": -2.043254557678572,
+      "density": 2.390573190077273
+    },
+    {
+      "material_id": "mp-1517794",
+      "formula": "BaSmCrSnO6",
+      "band_gap": 1.959699999999999,
+      "formation_energy_per_atom": -2.688117325999999,
+      "density": 6.964657932510907
+    },
+    {
+      "material_id": "mp-766",
+      "formula": "As2Ru",
+      "band_gap": 0.44920000000000004,
+      "formation_energy_per_atom": -0.45673630666666704,
+      "density": 8.23119467448224
+    },
+    {
+      "material_id": "mp-730189",
+      "formula": "CBrN",
+      "band_gap": 5.0996,
+      "formation_energy_per_atom": 0.20639488333333203,
+      "density": 2.072432734872191
+    },
+    {
+      "material_id": "mp-1521701",
+      "formula": "BaCaPrSbO6",
+      "band_gap": 2.9508,
+      "formation_energy_per_atom": -2.877298764166666,
+      "density": 5.995753232302992
+    },
+    {
+      "material_id": "mp-722237",
+      "formula": "Be(B3H8)2",
+      "band_gap": 3.5394,
+      "formation_energy_per_atom": -0.09867491413043401,
+      "density": 0.513995360155604
+    },
+    {
+      "material_id": "mp-755104",
+      "formula": "Ba2YCl7",
+      "band_gap": 4.0143,
+      "formation_energy_per_atom": -2.7918038175,
+      "density": 3.648123509309635
+    },
+    {
+      "material_id": "mp-772086",
+      "formula": "Ba4Sn3O10",
+      "band_gap": 2.9981,
+      "formation_energy_per_atom": -2.595660807352941,
+      "density": 6.098650099745487
+    },
+    {
+      "material_id": "mp-1227813",
+      "formula": "BaScO2F",
+      "band_gap": 2.9861999999999993,
+      "formation_energy_per_atom": -3.741040519999999,
+      "density": 5.197145837118838
+    },
+    {
+      "material_id": "mp-1522308",
+      "formula": "BaSrCeTiO6",
+      "band_gap": 2.1393,
+      "formation_energy_per_atom": -3.519273123833334,
+      "density": 5.824157540181333
+    }
+  ],
+  "perturbations": [
+    {
+      "perturbed_formula": "AsSe3",
+      "source_material_id": "mp-662599",
+      "source_formula": "Ag3AsSe3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba3Sn2Nb2",
+      "source_material_id": "mp-1190176",
+      "source_formula": "Ba3Sn2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba6MgTiS5Nb",
+      "source_material_id": "mp-2230226",
+      "source_formula": "Ba6Mg(TiS5)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BH5N",
+      "source_material_id": "mp-1106172",
+      "source_formula": "BH5NCl",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ca5Mg5P5O21F4K3",
+      "source_material_id": "mp-686434",
+      "source_formula": "Ca5Mg5P5O21F4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaNb2Te6",
+      "source_material_id": "mp-28150",
+      "source_formula": "BaNb2O6",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "CaIrF4",
+      "source_material_id": "mp-1389180",
+      "source_formula": "CaCoF4",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BiAs2O4",
+      "source_material_id": "mp-27911",
+      "source_formula": "BiAsO4",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BaMg14NiO16Ta2",
+      "source_material_id": "mp-1034854",
+      "source_formula": "BaMg14NiO16",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "AgSbBiS2",
+      "source_material_id": "mp-1229081",
+      "source_formula": "AgSb(PbS2)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ca2FeP2H2O3Sb3",
+      "source_material_id": "mp-780739",
+      "source_formula": "Ca2FeP2(H2O3)4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Bi5SeO6",
+      "source_material_id": "mp-1046291",
+      "source_formula": "Bi5(TeO6)3",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Al5Si3N",
+      "source_material_id": "mp-5496",
+      "source_formula": "Al5C3N",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Al4P3H9C3NO14",
+      "source_material_id": "mp-699455",
+      "source_formula": "Al3P3H9C3NO14",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca5Al2GeN4",
+      "source_material_id": "mp-866314",
+      "source_formula": "Ca5Al2(SiN4)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BaTiO4",
+      "source_material_id": "mp-1214296",
+      "source_formula": "BaTi(PO4)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba2AlTlIr2O7",
+      "source_material_id": "mp-1046381",
+      "source_formula": "Ba2AlTlCo2O7",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BaScO2Br",
+      "source_material_id": "mp-1227813",
+      "source_formula": "BaScO2F",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba7Fe6SeF16",
+      "source_material_id": "mp-821363",
+      "source_formula": "Ba7Fe6(OF16)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "SrYS2",
+      "source_material_id": "mp-29036",
+      "source_formula": "Ba(YS2)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BaAuSiO3",
+      "source_material_id": "mp-1201761",
+      "source_formula": "BaCu(SiO3)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "H6C2N5F4",
+      "source_material_id": "mp-1199055",
+      "source_formula": "BH6C2N5F4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "RaSrGdNbO6",
+      "source_material_id": "mp-1522918",
+      "source_formula": "BaSrGdNbO6",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "HfO8",
+      "source_material_id": "mp-755421",
+      "source_formula": "Ca6HfO8",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "AsC3S3NF10Ta2",
+      "source_material_id": "mp-1214763",
+      "source_formula": "AsC3S3NF10",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaTa2NO2",
+      "source_material_id": "mp-1227303",
+      "source_formula": "BaTaNO2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Bi4Ru2I2",
+      "source_material_id": "mp-541771",
+      "source_formula": "Bi4RuI2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ba3GaO3",
+      "source_material_id": "mp-755417",
+      "source_formula": "Ba3(BO3)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BH3Li2",
+      "source_material_id": "mp-634117",
+      "source_formula": "BH3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba7SiB3NO13Pb",
+      "source_material_id": "mp-1256464",
+      "source_formula": "Ba7SiB3NO13",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "SiBrN",
+      "source_material_id": "mp-730189",
+      "source_formula": "CBrN",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba4Sn3O10Rb",
+      "source_material_id": "mp-772086",
+      "source_formula": "Ba4Sn3O10",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaNbInSnO6Ag2",
+      "source_material_id": "mp-1520754",
+      "source_formula": "BaNbInSnO6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "AgH3O2Co",
+      "source_material_id": "mp-769355",
+      "source_formula": "AgH3O2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ca3Ir2TeO6",
+      "source_material_id": "mp-1369415",
+      "source_formula": "Ca3Co2(TeO6)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "AgAsBr4Rb2",
+      "source_material_id": "mp-2646989",
+      "source_formula": "AgAsBr4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BF3Co3",
+      "source_material_id": "mp-27896",
+      "source_formula": "BF3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "B2C2N2",
+      "source_material_id": "mp-1376593",
+      "source_formula": "B2(CN2)3",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ba3LaBO3",
+      "source_material_id": "mp-14972",
+      "source_formula": "Ba3Sc(BO3)3",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba2LaRuTe6",
+      "source_material_id": "mp-12911",
+      "source_formula": "Ba2LaRuO6",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Bi11Se4",
+      "source_material_id": "mp-1228808",
+      "source_formula": "Bi11(Se4Cl3)3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba4La2SbRuO10",
+      "source_material_id": "mp-1228220",
+      "source_formula": "Ba4La2SbRuO12",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca2Nb2FeO6",
+      "source_material_id": "mp-1214121",
+      "source_formula": "Ca2NbFeO6",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "AgBiO2Sn3",
+      "source_material_id": "mp-996968",
+      "source_formula": "AgBiO2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ca3Tl4O9Ga",
+      "source_material_id": "mp-1227625",
+      "source_formula": "Ca3Tl4O9",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Au2HgI4",
+      "source_material_id": "mp-1229122",
+      "source_formula": "Ag2HgI4",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ca5SiSe5",
+      "source_material_id": "mp-1197843",
+      "source_formula": "Ca5(SiO5)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Al2Cu2Bi2S3Cl8F",
+      "source_material_id": "mp-1195160",
+      "source_formula": "Al2Cu2Bi2S3Cl8",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "CaLaTe",
+      "source_material_id": "mp-36031",
+      "source_formula": "Ca(LaTe2)2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "InHO",
+      "source_material_id": "mp-625762",
+      "source_formula": "Al(HO)3",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "AuSeO3",
+      "source_material_id": "mp-560549",
+      "source_formula": "AuSeClO3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Al5CoO4",
+      "source_material_id": "mp-1251086",
+      "source_formula": "Al5(FeO4)3",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba3LaCl5",
+      "source_material_id": "mp-769049",
+      "source_formula": "BaLaCl5",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "CaWS2",
+      "source_material_id": "mp-1333926",
+      "source_formula": "Ca(WO2)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BaSrFeF7",
+      "source_material_id": "mp-1047946",
+      "source_formula": "BaCaFeF7",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba2LiV3P2O9",
+      "source_material_id": "mp-760067",
+      "source_formula": "Ba2LiVP2O9",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ag2TeH2O3P3",
+      "source_material_id": "mp-1193238",
+      "source_formula": "Ag2Te(H2O3)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ca3Ta2O8In",
+      "source_material_id": "mp-769381",
+      "source_formula": "Ca3Ta2O8",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba2Li3TaN4Sr2",
+      "source_material_id": "mp-573677",
+      "source_formula": "Ba2Li3TaN4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaTbMgSbO6",
+      "source_material_id": "mp-2218091",
+      "source_formula": "Ba2TbMgSbO6",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "RaSrMg6O8",
+      "source_material_id": "mp-1033527",
+      "source_formula": "BaSrMg6O8",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba4Sr2Sm2Co4O15Mo2",
+      "source_material_id": "mp-1228582",
+      "source_formula": "Ba4Sr2Sm2Co4O15",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaAs2F12Sr2",
+      "source_material_id": "mp-1214710",
+      "source_formula": "BaAs2F12",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BiPS3",
+      "source_material_id": "mp-556434",
+      "source_formula": "AgBi(PS3)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaLa8CoSn3O13",
+      "source_material_id": "mp-1228420",
+      "source_formula": "BaLa8Co(Si3O13)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba3Cr2O8Pb2",
+      "source_material_id": "mp-2761491",
+      "source_formula": "Ba3Cr2O8",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba2PrRuS6",
+      "source_material_id": "mp-6183",
+      "source_formula": "Ba2PrRuO6",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba2Si3O8Rb2",
+      "source_material_id": "mp-553897",
+      "source_formula": "Ba2Si3O8",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "B3H13CN4O",
+      "source_material_id": "mp-699467",
+      "source_formula": "B3H12CN4O",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca2ZnAs2H2O5La",
+      "source_material_id": "mp-1214196",
+      "source_formula": "Ca2ZnAs2(H2O5)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba5In3F19Ca2",
+      "source_material_id": "mp-1201460",
+      "source_formula": "Ba5In3F19",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ca4P2S",
+      "source_material_id": "mp-5380",
+      "source_formula": "Ca4P2O",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Sr4Nb2WO12",
+      "source_material_id": "mp-1228131",
+      "source_formula": "Ba4Nb2WO12",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Al2Cr3CuS8Zn2",
+      "source_material_id": "mp-1228975",
+      "source_formula": "Al2Cr3CuS8",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaHf4AlO7",
+      "source_material_id": "mp-1048108",
+      "source_formula": "BaTi4AlO7",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BaTiO",
+      "source_material_id": "mp-5020",
+      "source_formula": "BaTiO3",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BaSrLaWO6Au2",
+      "source_material_id": "mp-1517808",
+      "source_formula": "BaSrLaWO6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba3Sr5Ti5MnO24",
+      "source_material_id": "mp-1075974",
+      "source_formula": "Ba3Sr5Ti7MnO24",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ba4Ga4SnSe12Fe3",
+      "source_material_id": "mp-1195344",
+      "source_formula": "Ba4Ga4SnSe12",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba2PrSbO6Br",
+      "source_material_id": "mp-10731",
+      "source_formula": "Ba2PrSbO6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BeB3H7",
+      "source_material_id": "mp-722237",
+      "source_formula": "Be(B3H8)2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca2Al4Si4O17P2",
+      "source_material_id": "mp-1203830",
+      "source_formula": "Ca2Al4Si4O17",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ca3Mn2Sb",
+      "source_material_id": "mp-1374903",
+      "source_formula": "Ca3Mn2(SbO6)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ca2Fe",
+      "source_material_id": "mp-1205964",
+      "source_formula": "Ca2FeH6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BiBI3",
+      "source_material_id": "mp-1006880",
+      "source_formula": "BiB",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Al4V13Si2SbO14Na2",
+      "source_material_id": "mp-1256235",
+      "source_formula": "Al4V13Si2(SbO14)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "H4O3",
+      "source_material_id": "mp-626735",
+      "source_formula": "BaH4O3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaCaCeO6",
+      "source_material_id": "mp-1517564",
+      "source_formula": "BaCaCeZrO6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "B3H2N",
+      "source_material_id": "mp-29306",
+      "source_formula": "B5(H2N)2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca2Ta4P6SO12V",
+      "source_material_id": "mp-2713399",
+      "source_formula": "Ca2Ta4P6(SO12)3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaPtC4NO",
+      "source_material_id": "mp-720904",
+      "source_formula": "BaH8PtC4(NO)4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaTeO2",
+      "source_material_id": "mp-1214984",
+      "source_formula": "Ba(SO2)4",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba2RhO6",
+      "source_material_id": "mp-1205833",
+      "source_formula": "Ba2NbRhO6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaO14",
+      "source_material_id": "mp-685446",
+      "source_formula": "BaNb8O14",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "AlH8N3O2F5",
+      "source_material_id": "mp-1200764",
+      "source_formula": "AlH8N2O2F5",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ba3CaTl2",
+      "source_material_id": "mp-1095980",
+      "source_formula": "BaCaTl2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BiF",
+      "source_material_id": "mp-753673",
+      "source_formula": "BiOF",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "B5Pb2ClO8",
+      "source_material_id": "mp-557103",
+      "source_formula": "B5Pb2ClO9",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "CaAsN2O11",
+      "source_material_id": "mp-1214400",
+      "source_formula": "CaAsNO11",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BaMgMo4Se2O11",
+      "source_material_id": "mp-1234820",
+      "source_formula": "Ba2MgMo4(Se2O11)2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ge6S3N3Cl",
+      "source_material_id": "mp-722472",
+      "source_formula": "C6S3(N3Cl)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BaCrF5Ce3",
+      "source_material_id": "mp-541031",
+      "source_formula": "BaCrF5",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BH2S3N3F4Ta2",
+      "source_material_id": "mp-1105132",
+      "source_formula": "BH2S3N3F4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "AlFeO3Cu",
+      "source_material_id": "mp-1254277",
+      "source_formula": "AlFeO3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba2CaWO6Br2",
+      "source_material_id": "mp-18977",
+      "source_formula": "Ba2CaWO6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "CaH6SO4Ti3",
+      "source_material_id": "mp-1182124",
+      "source_formula": "CaH6(SO4)4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BeAlPt2Li",
+      "source_material_id": "mp-1097646",
+      "source_formula": "BeAlPt2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba2Sr2In2O6",
+      "source_material_id": "mp-1227817",
+      "source_formula": "BaSr2In2O6",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ba2FeBrO2",
+      "source_material_id": "mp-1214726",
+      "source_formula": "Ba2FeBrO3",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BO3F",
+      "source_material_id": "mp-1202733",
+      "source_formula": "BPb2O3F",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Al3HO",
+      "source_material_id": "mp-27540",
+      "source_formula": "Al(HO)3",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BaH9O5Al2",
+      "source_material_id": "mp-1182823",
+      "source_formula": "Ba(H9O5)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Al2Mo2S7",
+      "source_material_id": "mp-1262001",
+      "source_formula": "Al2Mo2O7",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba5P4As3",
+      "source_material_id": "mp-1105231",
+      "source_formula": "Ba5P4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Sr2TaMoO6",
+      "source_material_id": "mp-1366540",
+      "source_formula": "Ca2TaMoO6",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba2TeP2O11",
+      "source_material_id": "mp-1195039",
+      "source_formula": "Ba2Zn2TeP2O11",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaCO",
+      "source_material_id": "mp-674478",
+      "source_formula": "BaCO3",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca14GaAs11Ce3",
+      "source_material_id": "mp-568790",
+      "source_formula": "Ca14GaAs11",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ca2SbW",
+      "source_material_id": "mp-1369592",
+      "source_formula": "Ca2SbWO6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaP2HO3Ca",
+      "source_material_id": "mp-1214662",
+      "source_formula": "BaP2(HO3)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaLa3Ti4O15",
+      "source_material_id": "mp-1228245",
+      "source_formula": "BaLa4Ti4O15",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca3Al2Si3O10",
+      "source_material_id": "mp-1080186",
+      "source_formula": "CaAl2Si3O10",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BaCdHg2P3",
+      "source_material_id": "mp-1095738",
+      "source_formula": "BaCdHg2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaLa3EuSbO6",
+      "source_material_id": "mp-1520390",
+      "source_formula": "BaLaEuSbO6",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ba4Ga2S6",
+      "source_material_id": "mp-29301",
+      "source_formula": "Ba4Ga2S7",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Bi2CrO6",
+      "source_material_id": "mp-555658",
+      "source_formula": "Bi2MoO6",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ca2CrSb",
+      "source_material_id": "mp-1189906",
+      "source_formula": "Ca2CrSbO6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "CaSi3O2",
+      "source_material_id": "mp-1233212",
+      "source_formula": "Ca(SiO2)6",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "As3O4F",
+      "source_material_id": "mp-1178488",
+      "source_formula": "Bi3O4F",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "AsCSCl2Br9",
+      "source_material_id": "mp-561244",
+      "source_formula": "AsCSCl2F9",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BaMg30NiS32",
+      "source_material_id": "mp-1036861",
+      "source_formula": "BaMg30NiO32",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "CaGa2Si3O10",
+      "source_material_id": "mp-1236884",
+      "source_formula": "CaAl2Si3O10",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ca4GdGa3O10",
+      "source_material_id": "mp-6943",
+      "source_formula": "Ca4GdB3O10",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BaCaNdNbS6",
+      "source_material_id": "mp-1519688",
+      "source_formula": "BaCaNdNbO6",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ra5Sb4",
+      "source_material_id": "mp-17399",
+      "source_formula": "Ba5Sb4",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba3LaRuO6",
+      "source_material_id": "mp-554410",
+      "source_formula": "Ba2LaRuO6",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca2AlH2OBr7",
+      "source_material_id": "mp-1194400",
+      "source_formula": "Ca2AlH2OF7",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "CaFeSb2O7",
+      "source_material_id": "mp-1343599",
+      "source_formula": "CaFeP2O7",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba2ScF7",
+      "source_material_id": "mp-768350",
+      "source_formula": "Ba2YF7",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "CaGdH6Ru",
+      "source_material_id": "mp-1227207",
+      "source_formula": "CaEuH6Ru",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ca3MgFe2CO3Ba3",
+      "source_material_id": "mp-1227755",
+      "source_formula": "Ca3MgFe2(CO3)6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba3ZrZnWO9",
+      "source_material_id": "mp-1228110",
+      "source_formula": "Ba3TiZnWO9",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "RaGaSe2",
+      "source_material_id": "mp-7841",
+      "source_formula": "Ba(GaSe2)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba2YCl7Be3",
+      "source_material_id": "mp-755104",
+      "source_formula": "Ba2YCl7",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba3Zr2S7V3",
+      "source_material_id": "mp-8570",
+      "source_formula": "Ba3Zr2S7",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "AlPO3",
+      "source_material_id": "mp-675771",
+      "source_formula": "AlPO4",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ba3ScN3Ge2",
+      "source_material_id": "mp-1245831",
+      "source_formula": "Ba3ScN3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "AlH12C4NF4Si3",
+      "source_material_id": "mp-1228596",
+      "source_formula": "AlH12C4NF4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ca2Ta2WO7",
+      "source_material_id": "mp-1046286",
+      "source_formula": "Ca2Ta2WO8",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ag3AsSe3Na3",
+      "source_material_id": "mp-662599",
+      "source_formula": "Ag3AsSe3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba3Sn2Ni",
+      "source_material_id": "mp-1190176",
+      "source_formula": "Ba3Sn2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaZnP",
+      "source_material_id": "mp-1245788",
+      "source_formula": "Ba(ZnN)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BaCaSbO6",
+      "source_material_id": "mp-1521701",
+      "source_formula": "BaCaPrSbO6",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba6Mg3TiS5",
+      "source_material_id": "mp-2230226",
+      "source_formula": "Ba6Mg(TiS5)2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca5Mg5P5O21F4Rb3",
+      "source_material_id": "mp-686434",
+      "source_formula": "Ca5Mg5P5O21F4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaNb2Se6",
+      "source_material_id": "mp-28150",
+      "source_formula": "BaNb2O6",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ca2CoF4",
+      "source_material_id": "mp-1389180",
+      "source_formula": "CaCoF4",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BiAsO3",
+      "source_material_id": "mp-27911",
+      "source_formula": "BiAsO4",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BaMg14NiO15",
+      "source_material_id": "mp-1034854",
+      "source_formula": "BaMg14NiO16",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "AgSbPbS2Br3",
+      "source_material_id": "mp-1229081",
+      "source_formula": "AgSb(PbS2)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BH4NF4Si3",
+      "source_material_id": "mp-720391",
+      "source_formula": "BH4NF4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Bi6TeO6",
+      "source_material_id": "mp-1046291",
+      "source_formula": "Bi5(TeO6)3",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Al5CN",
+      "source_material_id": "mp-5496",
+      "source_formula": "Al5C3N",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "In3P3H9C3NO14",
+      "source_material_id": "mp-699455",
+      "source_formula": "Al3P3H9C3NO14",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ca5Al4SiN4",
+      "source_material_id": "mp-866314",
+      "source_formula": "Ca5Al2(SiN4)2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "SrTiPO4",
+      "source_material_id": "mp-1214296",
+      "source_formula": "BaTi(PO4)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BaScO2FB",
+      "source_material_id": "mp-1227813",
+      "source_formula": "BaScO2F",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba9Fe6OF16",
+      "source_material_id": "mp-821363",
+      "source_formula": "Ba7Fe6(OF16)2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BaYS2Au2",
+      "source_material_id": "mp-29036",
+      "source_formula": "Ba(YS2)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaCuSiSe3",
+      "source_material_id": "mp-1201761",
+      "source_formula": "BaCu(SiO3)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BH6C2N5F4As3",
+      "source_material_id": "mp-1199055",
+      "source_formula": "BH6C2N5F4",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BaSrGdTaO6",
+      "source_material_id": "mp-1522918",
+      "source_formula": "BaSrGdNbO6",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "CaPCo",
+      "source_material_id": "mp-11168",
+      "source_formula": "Ca(PIr)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ra3BBrO",
+      "source_material_id": "mp-1200496",
+      "source_formula": "Ba3B(BrO)3",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Sr6HfO8",
+      "source_material_id": "mp-755421",
+      "source_formula": "Ca6HfO8",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "C3P2",
+      "source_material_id": "mp-1188347",
+      "source_formula": "C3N2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "AsC3S3NF8",
+      "source_material_id": "mp-1214763",
+      "source_formula": "AsC3S3NF10",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BaNO2",
+      "source_material_id": "mp-1227303",
+      "source_formula": "BaTaNO2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Bi4FeI2",
+      "source_material_id": "mp-541771",
+      "source_formula": "Bi4RuI2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba3BO3K",
+      "source_material_id": "mp-755417",
+      "source_formula": "Ba3(BO3)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "BH3Bi2",
+      "source_material_id": "mp-634117",
+      "source_formula": "BH3",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Ba7SiBNO13",
+      "source_material_id": "mp-1256464",
+      "source_formula": "Ba7SiB3NO13",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ba4Sn3O12",
+      "source_material_id": "mp-772086",
+      "source_formula": "Ba4Sn3O10",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "BaNbInSnS6",
+      "source_material_id": "mp-1520754",
+      "source_formula": "BaNbInSnO6",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "AgH3Se2",
+      "source_material_id": "mp-769355",
+      "source_formula": "AgH3O2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ca3Co2TeO6Na3",
+      "source_material_id": "mp-1369415",
+      "source_formula": "Ca3Co2(TeO6)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "AgAsCl4",
+      "source_material_id": "mp-2646989",
+      "source_formula": "AgAsBr4",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "BF",
+      "source_material_id": "mp-27896",
+      "source_formula": "BF3",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "B2CAs2",
+      "source_material_id": "mp-1376593",
+      "source_formula": "B2(CN2)3",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Ba3ScBO",
+      "source_material_id": "mp-14972",
+      "source_formula": "Ba3Sc(BO3)3",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Bi9Se4Cl3",
+      "source_material_id": "mp-1228808",
+      "source_formula": "Bi11(Se4Cl3)3",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca2NbFe3O6",
+      "source_material_id": "mp-1214121",
+      "source_formula": "Ca2NbFeO6",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ca3Tl4O9Cs",
+      "source_material_id": "mp-1227625",
+      "source_formula": "Ca3Tl4O9",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "AgNO2Na3",
+      "source_material_id": "mp-5770",
+      "source_formula": "AgNO2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "Sr5SiO5",
+      "source_material_id": "mp-1197843",
+      "source_formula": "Ca5(SiO5)2",
+      "perturbation_type": "substitution"
+    },
+    {
+      "perturbed_formula": "Al2Cu2Bi2Cl8",
+      "source_material_id": "mp-1195160",
+      "source_formula": "Al2Cu2Bi2S3Cl8",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "CaLaTe2Ag2",
+      "source_material_id": "mp-36031",
+      "source_formula": "Ca(LaTe2)2",
+      "perturbation_type": "fictitious"
+    },
+    {
+      "perturbed_formula": "C2S5",
+      "source_material_id": "mp-1215005",
+      "source_formula": "CS5",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "Ba2AuO2",
+      "source_material_id": "mp-997009",
+      "source_formula": "BaAuO2",
+      "perturbation_type": "stoichiometry"
+    },
+    {
+      "perturbed_formula": "CaCrGeO3Cl3",
+      "source_material_id": "mp-1645095",
+      "source_formula": "CaCr(GeO3)2",
+      "perturbation_type": "fictitious"
+    }
+  ],
+  "metadata": {
+    "n_real": 200,
+    "n_perturbations": 200,
+    "seeds": {
+      "torch": 42,
+      "numpy": 42,
+      "random": 42
+    },
+    "perturbation_strategies": [
+      "stoichiometry",
+      "substitution",
+      "fictitious"
+    ]
+  }
+}
