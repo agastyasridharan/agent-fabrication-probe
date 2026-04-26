@@ -1,0 +1,3900 @@
+{
+  "real_planets": [
+    {
+      "pl_name": "CoRoT-20 b",
+      "hostname": "CoRoT-20",
+      "sy_pnum": 2,
+      "pl_orbper": 9.24285,
+      "pl_rade": 9.41556,
+      "pl_bmasse": 1366.669,
+      "pl_eqt": 1024.0
+    },
+    {
+      "pl_name": "WASP-63 b",
+      "hostname": "WASP-63",
+      "sy_pnum": 1,
+      "pl_orbper": 4.37808,
+      "pl_rade": 15.80469,
+      "pl_bmasse": 117.5971,
+      "pl_eqt": 1469.91
+    },
+    {
+      "pl_name": "Kepler-806 b",
+      "hostname": "Kepler-806",
+      "sy_pnum": 1,
+      "pl_orbper": 8.09219642,
+      "pl_rade": 1.14,
+      "pl_bmasse": 1.55,
+      "pl_eqt": 1089.0
+    },
+    {
+      "pl_name": "K2-287 b",
+      "hostname": "K2-287",
+      "sy_pnum": 1,
+      "pl_orbper": 14.893291,
+      "pl_rade": 9.494023,
+      "pl_bmasse": 100.11645,
+      "pl_eqt": 804.0
+    },
+    {
+      "pl_name": "Kepler-32 c",
+      "hostname": "Kepler-32",
+      "sy_pnum": 5,
+      "pl_orbper": 8.7522,
+      "pl_rade": 2.0,
+      "pl_bmasse": 158.9,
+      "pl_eqt": 451.0
+    },
+    {
+      "pl_name": "K2-85 b",
+      "hostname": "K2-85",
+      "sy_pnum": 1,
+      "pl_orbper": 0.68453862616,
+      "pl_rade": 1.4,
+      "pl_bmasse": 3.2,
+      "pl_eqt": 1355.0
+    },
+    {
+      "pl_name": "Kepler-121 c",
+      "hostname": "Kepler-121",
+      "sy_pnum": 2,
+      "pl_orbper": 41.008011,
+      "pl_rade": 2.27,
+      "pl_bmasse": 5.77,
+      "pl_eqt": 425.0
+    },
+    {
+      "pl_name": "Kepler-1227 b",
+      "hostname": "Kepler-1227",
+      "sy_pnum": 1,
+      "pl_orbper": 94.2887577,
+      "pl_rade": 2.29,
+      "pl_bmasse": 5.86,
+      "pl_eqt": 369.0
+    },
+    {
+      "pl_name": "Kepler-334 d",
+      "hostname": "Kepler-334",
+      "sy_pnum": 3,
+      "pl_orbper": 25.09849,
+      "pl_rade": 1.41,
+      "pl_bmasse": 2.57,
+      "pl_eqt": 656.0
+    },
+    {
+      "pl_name": "Kepler-1240 b",
+      "hostname": "Kepler-1240",
+      "sy_pnum": 1,
+      "pl_orbper": 4.8663815,
+      "pl_rade": 1.15,
+      "pl_bmasse": 1.6,
+      "pl_eqt": 1121.0
+    },
+    {
+      "pl_name": "TOI-1873 b",
+      "hostname": "TOI-1873",
+      "sy_pnum": 1,
+      "pl_orbper": 7.00572708834,
+      "pl_rade": 2.86356397,
+      "pl_bmasse": 8.57,
+      "pl_eqt": 923.5
+    },
+    {
+      "pl_name": "Kepler-1398 b",
+      "hostname": "Kepler-1398",
+      "sy_pnum": 2,
+      "pl_orbper": 2.78815679,
+      "pl_rade": 0.9,
+      "pl_bmasse": 0.666,
+      "pl_eqt": 1510.0
+    },
+    {
+      "pl_name": "Kepler-350 c",
+      "hostname": "Kepler-350",
+      "sy_pnum": 3,
+      "pl_orbper": 17.849,
+      "pl_rade": 3.1,
+      "pl_bmasse": 6.1,
+      "pl_eqt": 888.0
+    },
+    {
+      "pl_name": "Kepler-112 b",
+      "hostname": "Kepler-112",
+      "sy_pnum": 2,
+      "pl_orbper": 8.408878,
+      "pl_rade": 2.36,
+      "pl_bmasse": 6.17,
+      "pl_eqt": 809.0
+    },
+    {
+      "pl_name": "HATS-55 b",
+      "hostname": "HATS-55",
+      "sy_pnum": 1,
+      "pl_orbper": 4.2042001,
+      "pl_rade": 14.022459,
+      "pl_bmasse": 292.72143,
+      "pl_eqt": 1367.0
+    },
+    {
+      "pl_name": "HAT-P-25 b",
+      "hostname": "HAT-P-25",
+      "sy_pnum": 1,
+      "pl_orbper": 3.65281514,
+      "pl_rade": 12.722215,
+      "pl_bmasse": 180.84527,
+      "pl_eqt": 1182.0
+    },
+    {
+      "pl_name": "Kepler-85 d",
+      "hostname": "Kepler-85",
+      "sy_pnum": 4,
+      "pl_orbper": 17.91323,
+      "pl_rade": 1.2,
+      "pl_bmasse": 8.69679,
+      "pl_eqt": 626.0
+    },
+    {
+      "pl_name": "Kepler-917 b",
+      "hostname": "Kepler-917",
+      "sy_pnum": 1,
+      "pl_orbper": 2.970414375,
+      "pl_rade": 1.91,
+      "pl_bmasse": 4.31,
+      "pl_eqt": 991.0
+    },
+    {
+      "pl_name": "Kepler-116 c",
+      "hostname": "Kepler-116",
+      "sy_pnum": 2,
+      "pl_orbper": 13.07163,
+      "pl_rade": 2.3,
+      "pl_bmasse": 5.9,
+      "pl_eqt": 964.0
+    },
+    {
+      "pl_name": "K2-229 b",
+      "hostname": "K2-229",
+      "sy_pnum": 2,
+      "pl_orbper": 0.584216,
+      "pl_rade": 1.0,
+      "pl_bmasse": 2.55,
+      "pl_eqt": 1818.0
+    },
+    {
+      "pl_name": "Kepler-973 b",
+      "hostname": "Kepler-973",
+      "sy_pnum": 1,
+      "pl_orbper": 49.6077331,
+      "pl_rade": 1.96,
+      "pl_bmasse": 4.5,
+      "pl_eqt": 402.0
+    },
+    {
+      "pl_name": "Kepler-558 b",
+      "hostname": "Kepler-558",
+      "sy_pnum": 1,
+      "pl_orbper": 29.00790538,
+      "pl_rade": 2.37,
+      "pl_bmasse": 6.21,
+      "pl_eqt": 498.0
+    },
+    {
+      "pl_name": "V1298 Tau e",
+      "hostname": "V1298 Tau",
+      "sy_pnum": 4,
+      "pl_orbper": 48.677714,
+      "pl_rade": 10.17,
+      "pl_bmasse": 15.3,
+      "pl_eqt": 527.0
+    },
+    {
+      "pl_name": "Kepler-856 b",
+      "hostname": "Kepler-856",
+      "sy_pnum": 1,
+      "pl_orbper": 8.027680595,
+      "pl_rade": 9.3,
+      "pl_bmasse": 63.3,
+      "pl_eqt": 824.0
+    },
+    {
+      "pl_name": "HAT-P-36 b",
+      "hostname": "HAT-P-36",
+      "sy_pnum": 1,
+      "pl_orbper": 1.32734683,
+      "pl_rade": 14.313893,
+      "pl_bmasse": 587.413406,
+      "pl_eqt": 1780.97
+    },
+    {
+      "pl_name": "Kepler-227 b",
+      "hostname": "Kepler-227",
+      "sy_pnum": 2,
+      "pl_orbper": 9.488015,
+      "pl_rade": 3.11,
+      "pl_bmasse": 9.85,
+      "pl_eqt": 793.0
+    },
+    {
+      "pl_name": "Kepler-256 e",
+      "hostname": "Kepler-256",
+      "sy_pnum": 4,
+      "pl_orbper": 10.681572,
+      "pl_rade": 2.35,
+      "pl_bmasse": 6.12,
+      "pl_eqt": 897.0
+    },
+    {
+      "pl_name": "WASP-66 b",
+      "hostname": "WASP-66",
+      "sy_pnum": 1,
+      "pl_orbper": 4.08605,
+      "pl_rade": 15.6926,
+      "pl_bmasse": 746.9005,
+      "pl_eqt": 1569.7
+    },
+    {
+      "pl_name": "Kepler-1773 b",
+      "hostname": "Kepler-1773",
+      "sy_pnum": 1,
+      "pl_orbper": 40.80970001,
+      "pl_rade": 3.50469499,
+      "pl_bmasse": 12.1,
+      "pl_eqt": 623.0
+    },
+    {
+      "pl_name": "Kepler-1045 b",
+      "hostname": "Kepler-1045",
+      "sy_pnum": 1,
+      "pl_orbper": 26.41045478,
+      "pl_rade": 2.69,
+      "pl_bmasse": 7.7,
+      "pl_eqt": 512.0
+    },
+    {
+      "pl_name": "Kepler-1113 b",
+      "hostname": "Kepler-1113",
+      "sy_pnum": 1,
+      "pl_orbper": 42.3004954,
+      "pl_rade": 2.81,
+      "pl_bmasse": 8.3,
+      "pl_eqt": 558.0
+    },
+    {
+      "pl_name": "TOI-4030 b",
+      "hostname": "TOI-4030",
+      "sy_pnum": 1,
+      "pl_orbper": 2.50900199461,
+      "pl_rade": 5.8462559,
+      "pl_bmasse": 28.8,
+      "pl_eqt": 1384.0
+    },
+    {
+      "pl_name": "Kepler-1114 b",
+      "hostname": "Kepler-1114",
+      "sy_pnum": 1,
+      "pl_orbper": 14.97435694,
+      "pl_rade": 1.35,
+      "pl_bmasse": 2.39,
+      "pl_eqt": 631.0
+    },
+    {
+      "pl_name": "Kepler-1630 b",
+      "hostname": "Kepler-1630",
+      "sy_pnum": 1,
+      "pl_orbper": 509.997402,
+      "pl_rade": 2.19,
+      "pl_bmasse": 5.43,
+      "pl_eqt": 182.0
+    },
+    {
+      "pl_name": "Kepler-1062 b",
+      "hostname": "Kepler-1062",
+      "sy_pnum": 1,
+      "pl_orbper": 9.30412078,
+      "pl_rade": 1.76,
+      "pl_bmasse": 3.75,
+      "pl_eqt": 583.0
+    },
+    {
+      "pl_name": "Kepler-582 b",
+      "hostname": "Kepler-582",
+      "sy_pnum": 1,
+      "pl_orbper": 18.49235668,
+      "pl_rade": 3.68,
+      "pl_bmasse": 13.1,
+      "pl_eqt": 603.0
+    },
+    {
+      "pl_name": "Kepler-904 b",
+      "hostname": "Kepler-904",
+      "sy_pnum": 1,
+      "pl_orbper": 3.021668632,
+      "pl_rade": 1.77,
+      "pl_bmasse": 3.78,
+      "pl_eqt": 1332.0
+    },
+    {
+      "pl_name": "Kepler-1490 b",
+      "hostname": "Kepler-1490",
+      "sy_pnum": 1,
+      "pl_orbper": 92.4362973,
+      "pl_rade": 3.04,
+      "pl_bmasse": 9.48,
+      "pl_eqt": 348.0
+    },
+    {
+      "pl_name": "Kepler-183 b",
+      "hostname": "Kepler-183",
+      "sy_pnum": 2,
+      "pl_orbper": 5.687945,
+      "pl_rade": 2.06,
+      "pl_bmasse": 4.9,
+      "pl_eqt": 1088.0
+    },
+    {
+      "pl_name": "Kepler-537 b",
+      "hostname": "Kepler-537",
+      "sy_pnum": 1,
+      "pl_orbper": 3.247555219,
+      "pl_rade": 1.41,
+      "pl_bmasse": 2.57,
+      "pl_eqt": 1181.0
+    },
+    {
+      "pl_name": "Kepler-825 c",
+      "hostname": "Kepler-825",
+      "sy_pnum": 2,
+      "pl_orbper": 8.1818246,
+      "pl_rade": 1.84,
+      "pl_bmasse": 4.04,
+      "pl_eqt": 981.0
+    },
+    {
+      "pl_name": "K2-155 c",
+      "hostname": "K2-155",
+      "sy_pnum": 3,
+      "pl_orbper": 13.85,
+      "pl_rade": 2.6,
+      "pl_bmasse": 7.27,
+      "pl_eqt": 583.0
+    },
+    {
+      "pl_name": "TOI-5300 b",
+      "hostname": "TOI-5300",
+      "sy_pnum": 1,
+      "pl_orbper": 2.262196,
+      "pl_rade": 9.86390302,
+      "pl_bmasse": 190.6970442,
+      "pl_eqt": 1043.0
+    },
+    {
+      "pl_name": "TOI-1294 b",
+      "hostname": "TOI-1294",
+      "sy_pnum": 2,
+      "pl_orbper": 3.915292,
+      "pl_rade": 10.12369881,
+      "pl_bmasse": 63.9,
+      "pl_eqt": 1392.74
+    },
+    {
+      "pl_name": "TOI-6478 b",
+      "hostname": "TOI-6478",
+      "sy_pnum": 1,
+      "pl_orbper": 34.005019,
+      "pl_rade": 4.6,
+      "pl_bmasse": 19.2,
+      "pl_eqt": 204.4
+    },
+    {
+      "pl_name": "TOI-178 d",
+      "hostname": "TOI-178",
+      "sy_pnum": 6,
+      "pl_orbper": 6.557569,
+      "pl_rade": 2.695,
+      "pl_bmasse": 5.2,
+      "pl_eqt": 690.0
+    },
+    {
+      "pl_name": "K2-146 b",
+      "hostname": "K2-146",
+      "sy_pnum": 2,
+      "pl_orbper": 2.6446,
+      "pl_rade": 2.05,
+      "pl_bmasse": 5.77,
+      "pl_eqt": 534.0
+    },
+    {
+      "pl_name": "Kepler-426 b",
+      "hostname": "Kepler-426",
+      "sy_pnum": 1,
+      "pl_orbper": 3.21751883,
+      "pl_rade": 12.22,
+      "pl_bmasse": 108.06,
+      "pl_eqt": 1300.0
+    },
+    {
+      "pl_name": "Kepler-1625 b",
+      "hostname": "Kepler-1625",
+      "sy_pnum": 1,
+      "pl_orbper": 287.378949,
+      "pl_rade": 6.06,
+      "pl_bmasse": 30.6,
+      "pl_eqt": 350.0
+    },
+    {
+      "pl_name": "TOI-1789 b",
+      "hostname": "TOI-1789",
+      "sy_pnum": 1,
+      "pl_orbper": 3.208664,
+      "pl_rade": 16.14093221,
+      "pl_bmasse": 222.4798849,
+      "pl_eqt": 1927.0
+    },
+    {
+      "pl_name": "Kepler-951 b",
+      "hostname": "Kepler-951",
+      "sy_pnum": 1,
+      "pl_orbper": 71.52530845,
+      "pl_rade": 5.59,
+      "pl_bmasse": 26.7,
+      "pl_eqt": 340.0
+    },
+    {
+      "pl_name": "Kepler-1646 b",
+      "hostname": "Kepler-1646",
+      "sy_pnum": 1,
+      "pl_orbper": 4.48558383,
+      "pl_rade": 1.23,
+      "pl_bmasse": 2.04,
+      "pl_eqt": 365.0
+    },
+    {
+      "pl_name": "Kepler-48 d",
+      "hostname": "Kepler-48",
+      "sy_pnum": 5,
+      "pl_orbper": 42.8961,
+      "pl_rade": 2.04,
+      "pl_bmasse": 7.93,
+      "pl_eqt": 448.0
+    },
+    {
+      "pl_name": "TOI-1693 b",
+      "hostname": "TOI-1693",
+      "sy_pnum": 1,
+      "pl_orbper": 1.7666957,
+      "pl_rade": 1.41,
+      "pl_bmasse": 2.57,
+      "pl_eqt": 764.0
+    },
+    {
+      "pl_name": "Kepler-1170 b",
+      "hostname": "Kepler-1170",
+      "sy_pnum": 1,
+      "pl_orbper": 9.98969327,
+      "pl_rade": 2.41,
+      "pl_bmasse": 6.39,
+      "pl_eqt": 705.0
+    },
+    {
+      "pl_name": "Kepler-1734 b",
+      "hostname": "Kepler-1734",
+      "sy_pnum": 1,
+      "pl_orbper": 6.796850204,
+      "pl_rade": 3.08851092,
+      "pl_bmasse": 9.74,
+      "pl_eqt": 985.0
+    },
+    {
+      "pl_name": "WASP-100 b",
+      "hostname": "WASP-100",
+      "sy_pnum": 1,
+      "pl_orbper": 2.84938,
+      "pl_rade": 14.90797,
+      "pl_bmasse": 400.4658,
+      "pl_eqt": 2190.0
+    },
+    {
+      "pl_name": "Kepler-1083 b",
+      "hostname": "Kepler-1083",
+      "sy_pnum": 1,
+      "pl_orbper": 33.4177993,
+      "pl_rade": 3.36,
+      "pl_bmasse": 11.2,
+      "pl_eqt": 448.0
+    },
+    {
+      "pl_name": "Kepler-149 b",
+      "hostname": "Kepler-149",
+      "sy_pnum": 3,
+      "pl_orbper": 29.198943,
+      "pl_rade": 4.21,
+      "pl_bmasse": 16.5,
+      "pl_eqt": 540.0
+    },
+    {
+      "pl_name": "Kepler-25 b",
+      "hostname": "Kepler-25",
+      "sy_pnum": 3,
+      "pl_orbper": 6.238297,
+      "pl_rade": 2.748,
+      "pl_bmasse": 8.7,
+      "pl_eqt": 1185.0
+    },
+    {
+      "pl_name": "LTT 3780 c",
+      "hostname": "LTT 3780",
+      "sy_pnum": 2,
+      "pl_orbper": 12.252284,
+      "pl_rade": 2.39,
+      "pl_bmasse": 8.04,
+      "pl_eqt": 359.0
+    },
+    {
+      "pl_name": "WASP-177 b",
+      "hostname": "WASP-177",
+      "sy_pnum": 1,
+      "pl_orbper": 3.071722,
+      "pl_rade": 17.71022,
+      "pl_bmasse": 161.45764,
+      "pl_eqt": 1142.0
+    },
+    {
+      "pl_name": "K2-192 b",
+      "hostname": "K2-192",
+      "sy_pnum": 1,
+      "pl_orbper": 4.162817,
+      "pl_rade": 1.52,
+      "pl_bmasse": 2.92,
+      "pl_eqt": 939.0
+    },
+    {
+      "pl_name": "Kepler-653 b",
+      "hostname": "Kepler-653",
+      "sy_pnum": 2,
+      "pl_orbper": 14.70748976,
+      "pl_rade": 1.95,
+      "pl_bmasse": 4.46,
+      "pl_eqt": 819.0
+    },
+    {
+      "pl_name": "TOI-1201 b",
+      "hostname": "TOI-1201",
+      "sy_pnum": 1,
+      "pl_orbper": 2.4919863,
+      "pl_rade": 2.415,
+      "pl_bmasse": 6.28,
+      "pl_eqt": 703.0
+    },
+    {
+      "pl_name": "Kepler-1336 b",
+      "hostname": "Kepler-1336",
+      "sy_pnum": 2,
+      "pl_orbper": 23.198681,
+      "pl_rade": 1.98,
+      "pl_bmasse": 4.58,
+      "pl_eqt": 793.0
+    },
+    {
+      "pl_name": "K2-343 b",
+      "hostname": "K2-343",
+      "sy_pnum": 2,
+      "pl_orbper": 2.787174,
+      "pl_rade": 1.65,
+      "pl_bmasse": 3.36,
+      "pl_eqt": 653.0
+    },
+    {
+      "pl_name": "Kepler-767 b",
+      "hostname": "Kepler-767",
+      "sy_pnum": 1,
+      "pl_orbper": 161.5280101,
+      "pl_rade": 6.64,
+      "pl_bmasse": 35.7,
+      "pl_eqt": 366.0
+    },
+    {
+      "pl_name": "TOI-776 b",
+      "hostname": "TOI-776",
+      "sy_pnum": 2,
+      "pl_orbper": 8.24662,
+      "pl_rade": 1.798,
+      "pl_bmasse": 5.0,
+      "pl_eqt": 520.0
+    },
+    {
+      "pl_name": "Kepler-678 b",
+      "hostname": "Kepler-678",
+      "sy_pnum": 1,
+      "pl_orbper": 7.27503724,
+      "pl_rade": 5.14,
+      "pl_bmasse": 23.1,
+      "pl_eqt": 833.0
+    },
+    {
+      "pl_name": "Kepler-45 b",
+      "hostname": "Kepler-45",
+      "sy_pnum": 1,
+      "pl_orbper": 2.455239,
+      "pl_rade": 10.76,
+      "pl_bmasse": 160.497,
+      "pl_eqt": 1000.0
+    },
+    {
+      "pl_name": "WASP-72 b",
+      "hostname": "WASP-72",
+      "sy_pnum": 1,
+      "pl_orbper": 2.21673,
+      "pl_rade": 14.45961,
+      "pl_bmasse": 731.009,
+      "pl_eqt": 2210.0
+    },
+    {
+      "pl_name": "TOI-1670 b",
+      "hostname": "TOI-1670",
+      "sy_pnum": 2,
+      "pl_orbper": 10.98462,
+      "pl_rade": 2.06,
+      "pl_bmasse": 41.31769291,
+      "pl_eqt": 1062.0
+    },
+    {
+      "pl_name": "Kepler-746 b",
+      "hostname": "Kepler-746",
+      "sy_pnum": 1,
+      "pl_orbper": 3.48159251,
+      "pl_rade": 1.11,
+      "pl_bmasse": 1.41,
+      "pl_eqt": 1156.0
+    },
+    {
+      "pl_name": "Kepler-1609 b",
+      "hostname": "Kepler-1609",
+      "sy_pnum": 1,
+      "pl_orbper": 114.34219,
+      "pl_rade": 2.22,
+      "pl_bmasse": 5.56,
+      "pl_eqt": 429.0
+    },
+    {
+      "pl_name": "Kepler-1000 b",
+      "hostname": "Kepler-1000",
+      "sy_pnum": 1,
+      "pl_orbper": 120.0181272,
+      "pl_rade": 4.76,
+      "pl_bmasse": 20.3,
+      "pl_eqt": 473.0
+    },
+    {
+      "pl_name": "Kepler-1893 b",
+      "hostname": "Kepler-1893",
+      "sy_pnum": 1,
+      "pl_orbper": 4.179369926,
+      "pl_rade": 1.70557445,
+      "pl_bmasse": 3.55,
+      "pl_eqt": 1194.0
+    },
+    {
+      "pl_name": "Kepler-1259 b",
+      "hostname": "Kepler-1259",
+      "sy_pnum": 1,
+      "pl_orbper": 0.663085258,
+      "pl_rade": 1.43,
+      "pl_bmasse": 2.63,
+      "pl_eqt": 1681.0
+    },
+    {
+      "pl_name": "Kepler-598 b",
+      "hostname": "Kepler-598",
+      "sy_pnum": 2,
+      "pl_orbper": 3.70175428,
+      "pl_rade": 1.5,
+      "pl_bmasse": 2.86,
+      "pl_eqt": 1050.0
+    },
+    {
+      "pl_name": "Kepler-53 b",
+      "hostname": "Kepler-53",
+      "sy_pnum": 3,
+      "pl_orbper": 18.6489525,
+      "pl_rade": 2.89,
+      "pl_bmasse": 111.0,
+      "pl_eqt": 701.0
+    },
+    {
+      "pl_name": "Kepler-1780 b",
+      "hostname": "Kepler-1780",
+      "sy_pnum": 1,
+      "pl_orbper": 109.4449997,
+      "pl_rade": 3.60600667,
+      "pl_bmasse": 12.7,
+      "pl_eqt": 340.0
+    },
+    {
+      "pl_name": "Kepler-1959 b",
+      "hostname": "Kepler-1959",
+      "sy_pnum": 1,
+      "pl_orbper": 6.38669014,
+      "pl_rade": 1.14315727,
+      "pl_bmasse": 1.57,
+      "pl_eqt": 811.0
+    },
+    {
+      "pl_name": "Kepler-727 b",
+      "hostname": "Kepler-727",
+      "sy_pnum": 1,
+      "pl_orbper": 5.154484417,
+      "pl_rade": 2.53,
+      "pl_bmasse": 6.94,
+      "pl_eqt": 964.0
+    },
+    {
+      "pl_name": "Kepler-83 c",
+      "hostname": "Kepler-83",
+      "sy_pnum": 3,
+      "pl_orbper": 20.09,
+      "pl_rade": 2.36,
+      "pl_bmasse": 2.03,
+      "pl_eqt": 362.0
+    },
+    {
+      "pl_name": "Kepler-174 c",
+      "hostname": "Kepler-174",
+      "sy_pnum": 3,
+      "pl_orbper": 44.000529,
+      "pl_rade": 1.49,
+      "pl_bmasse": 2.83,
+      "pl_eqt": 377.0
+    },
+    {
+      "pl_name": "HAT-P-39 b",
+      "hostname": "HAT-P-39",
+      "sy_pnum": 1,
+      "pl_orbper": 3.54387,
+      "pl_rade": 17.609,
+      "pl_bmasse": 190.372,
+      "pl_eqt": 1752.0
+    },
+    {
+      "pl_name": "Teegarden's Star b",
+      "hostname": "Teegarden's Star",
+      "sy_pnum": 3,
+      "pl_orbper": 4.90634,
+      "pl_rade": 1.05,
+      "pl_bmasse": 1.16,
+      "pl_eqt": 277.0
+    },
+    {
+      "pl_name": "Kepler-1754 b",
+      "hostname": "Kepler-1754",
+      "sy_pnum": 1,
+      "pl_orbper": 8.195949554,
+      "pl_rade": 2.43996509,
+      "pl_bmasse": 6.53,
+      "pl_eqt": 672.0
+    },
+    {
+      "pl_name": "Kepler-49 c",
+      "hostname": "Kepler-49",
+      "sy_pnum": 4,
+      "pl_orbper": 10.91,
+      "pl_rade": 2.444,
+      "pl_bmasse": 8.38,
+      "pl_eqt": 443.0
+    },
+    {
+      "pl_name": "Kepler-251 d",
+      "hostname": "Kepler-251",
+      "sy_pnum": 4,
+      "pl_orbper": 30.133001,
+      "pl_rade": 2.77,
+      "pl_bmasse": 8.1,
+      "pl_eqt": 536.0
+    },
+    {
+      "pl_name": "K2-353 b",
+      "hostname": "K2-353",
+      "sy_pnum": 1,
+      "pl_orbper": 15.466805,
+      "pl_rade": 5.55,
+      "pl_bmasse": 26.3,
+      "pl_eqt": 735.0
+    },
+    {
+      "pl_name": "Kepler-1666 c",
+      "hostname": "Kepler-1666",
+      "sy_pnum": 2,
+      "pl_orbper": 40.7157,
+      "pl_rade": 3.23564749,
+      "pl_bmasse": 10.5,
+      "pl_eqt": 578.0
+    },
+    {
+      "pl_name": "Kepler-922 b",
+      "hostname": "Kepler-922",
+      "sy_pnum": 1,
+      "pl_orbper": 0.938466832,
+      "pl_rade": 1.42,
+      "pl_bmasse": 2.6,
+      "pl_eqt": 1876.0
+    },
+    {
+      "pl_name": "K2-280 b",
+      "hostname": "K2-280",
+      "sy_pnum": 1,
+      "pl_orbper": 19.89526,
+      "pl_rade": 7.5,
+      "pl_bmasse": 37.1,
+      "pl_eqt": 787.0
+    },
+    {
+      "pl_name": "Proxima Cen b",
+      "hostname": "Proxima Cen",
+      "sy_pnum": 2,
+      "pl_orbper": 11.18465,
+      "pl_rade": 1.02,
+      "pl_bmasse": 1.055,
+      "pl_eqt": 218.0
+    },
+    {
+      "pl_name": "Kepler-84 e",
+      "hostname": "Kepler-84",
+      "sy_pnum": 5,
+      "pl_orbper": 27.434389,
+      "pl_rade": 2.6,
+      "pl_bmasse": 7.27,
+      "pl_eqt": 672.0
+    },
+    {
+      "pl_name": "HATS-25 b",
+      "hostname": "HATS-25",
+      "sy_pnum": 1,
+      "pl_orbper": 4.2986432,
+      "pl_rade": 14.12334,
+      "pl_bmasse": 194.82979,
+      "pl_eqt": 1277.0
+    },
+    {
+      "pl_name": "Kepler-738 b",
+      "hostname": "Kepler-738",
+      "sy_pnum": 1,
+      "pl_orbper": 24.58721573,
+      "pl_rade": 2.5,
+      "pl_bmasse": 6.8,
+      "pl_eqt": 530.0
+    },
+    {
+      "pl_name": "WASP-89 b",
+      "hostname": "WASP-89",
+      "sy_pnum": 1,
+      "pl_orbper": 3.3564227,
+      "pl_rade": 11.65736,
+      "pl_bmasse": 1875.197,
+      "pl_eqt": 1120.0
+    },
+    {
+      "pl_name": "Kepler-378 c",
+      "hostname": "Kepler-378",
+      "sy_pnum": 2,
+      "pl_orbper": 28.906009,
+      "pl_rade": 0.7,
+      "pl_bmasse": 0.271,
+      "pl_eqt": 414.0
+    },
+    {
+      "pl_name": "HATS-45 b",
+      "hostname": "HATS-45",
+      "sy_pnum": 1,
+      "pl_orbper": 4.1876244,
+      "pl_rade": 14.414774,
+      "pl_bmasse": 222.481,
+      "pl_eqt": 1518.0
+    },
+    {
+      "pl_name": "HATS-43 b",
+      "hostname": "HATS-43",
+      "sy_pnum": 1,
+      "pl_orbper": 4.3888497,
+      "pl_rade": 13.22662,
+      "pl_bmasse": 82.95363,
+      "pl_eqt": 1003.0
+    },
+    {
+      "pl_name": "Kepler-187 b",
+      "hostname": "Kepler-187",
+      "sy_pnum": 2,
+      "pl_orbper": 4.938864,
+      "pl_rade": 1.41,
+      "pl_bmasse": 2.57,
+      "pl_eqt": 1244.0
+    },
+    {
+      "pl_name": "Kepler-652 b",
+      "hostname": "Kepler-652",
+      "sy_pnum": 1,
+      "pl_orbper": 4.182002531,
+      "pl_rade": 2.49,
+      "pl_bmasse": 6.76,
+      "pl_eqt": 974.0
+    },
+    {
+      "pl_name": "Kepler-207 c",
+      "hostname": "Kepler-207",
+      "sy_pnum": 3,
+      "pl_orbper": 3.071571,
+      "pl_rade": 1.5,
+      "pl_bmasse": 2.86,
+      "pl_eqt": 1556.0
+    },
+    {
+      "pl_name": "Kepler-1900 b",
+      "hostname": "Kepler-1900",
+      "sy_pnum": 1,
+      "pl_orbper": 2.986229897,
+      "pl_rade": 1.62314676,
+      "pl_bmasse": 3.27,
+      "pl_eqt": 1356.0
+    },
+    {
+      "pl_name": "Kepler-197 d",
+      "hostname": "Kepler-197",
+      "sy_pnum": 4,
+      "pl_orbper": 15.677563,
+      "pl_rade": 1.22,
+      "pl_bmasse": 1.98,
+      "pl_eqt": 810.0
+    },
+    {
+      "pl_name": "Kepler-233 b",
+      "hostname": "Kepler-233",
+      "sy_pnum": 2,
+      "pl_orbper": 8.472382,
+      "pl_rade": 2.43,
+      "pl_bmasse": 6.48,
+      "pl_eqt": 751.0
+    },
+    {
+      "pl_name": "Kepler-1216 b",
+      "hostname": "Kepler-1216",
+      "sy_pnum": 1,
+      "pl_orbper": 4.37034536,
+      "pl_rade": 1.39,
+      "pl_bmasse": 2.51,
+      "pl_eqt": 1191.0
+    },
+    {
+      "pl_name": "Kepler-1829 b",
+      "hostname": "Kepler-1829",
+      "sy_pnum": 1,
+      "pl_orbper": 5.186719894,
+      "pl_rade": 2.47887001,
+      "pl_bmasse": 6.71,
+      "pl_eqt": 860.0
+    },
+    {
+      "pl_name": "Kepler-11 c",
+      "hostname": "Kepler-11",
+      "sy_pnum": 6,
+      "pl_orbper": 13.0241,
+      "pl_rade": 2.87,
+      "pl_bmasse": 2.9,
+      "pl_eqt": 786.0
+    },
+    {
+      "pl_name": "Kepler-303 c",
+      "hostname": "Kepler-303",
+      "sy_pnum": 2,
+      "pl_orbper": 7.061149,
+      "pl_rade": 1.14,
+      "pl_bmasse": 1.55,
+      "pl_eqt": 521.0
+    },
+    {
+      "pl_name": "Kepler-1802 b",
+      "hostname": "Kepler-1802",
+      "sy_pnum": 2,
+      "pl_orbper": 15.45020008,
+      "pl_rade": 1.671,
+      "pl_bmasse": 3.43,
+      "pl_eqt": 581.0
+    },
+    {
+      "pl_name": "Kepler-1849 b",
+      "hostname": "Kepler-1849",
+      "sy_pnum": 1,
+      "pl_orbper": 57.29290009,
+      "pl_rade": 2.38685349,
+      "pl_bmasse": 6.29,
+      "pl_eqt": 355.0
+    },
+    {
+      "pl_name": "Kepler-58 d",
+      "hostname": "Kepler-58",
+      "sy_pnum": 4,
+      "pl_orbper": 40.101371,
+      "pl_rade": 2.94,
+      "pl_bmasse": 245.343,
+      "pl_eqt": 583.0
+    },
+    {
+      "pl_name": "Kepler-177 c",
+      "hostname": "Kepler-177",
+      "sy_pnum": 2,
+      "pl_orbper": 49.40926,
+      "pl_rade": 8.73,
+      "pl_bmasse": 14.7,
+      "pl_eqt": 497.0
+    },
+    {
+      "pl_name": "TOI-1750 b",
+      "hostname": "TOI-1750",
+      "sy_pnum": 1,
+      "pl_orbper": 11.33727129656,
+      "pl_rade": 2.78943837,
+      "pl_bmasse": 8.19,
+      "pl_eqt": 612.92
+    },
+    {
+      "pl_name": "Kepler-265 e",
+      "hostname": "Kepler-265",
+      "sy_pnum": 4,
+      "pl_orbper": 67.831024,
+      "pl_rade": 2.59,
+      "pl_bmasse": 7.22,
+      "pl_eqt": 476.0
+    },
+    {
+      "pl_name": "Kepler-150 b",
+      "hostname": "Kepler-150",
+      "sy_pnum": 5,
+      "pl_orbper": 3.428054,
+      "pl_rade": 1.25,
+      "pl_bmasse": 2.1,
+      "pl_eqt": 1131.0
+    },
+    {
+      "pl_name": "Kepler-1471 b",
+      "hostname": "Kepler-1471",
+      "sy_pnum": 2,
+      "pl_orbper": 3.63899398,
+      "pl_rade": 1.41,
+      "pl_bmasse": 2.57,
+      "pl_eqt": 1238.0
+    },
+    {
+      "pl_name": "YZ Cet d",
+      "hostname": "YZ Cet",
+      "sy_pnum": 3,
+      "pl_orbper": 4.65626,
+      "pl_rade": 1.03,
+      "pl_bmasse": 1.09,
+      "pl_eqt": 356.7
+    },
+    {
+      "pl_name": "Kepler-525 b",
+      "hostname": "Kepler-525",
+      "sy_pnum": 1,
+      "pl_orbper": 18.68404933,
+      "pl_rade": 2.63,
+      "pl_bmasse": 7.41,
+      "pl_eqt": 832.0
+    },
+    {
+      "pl_name": "TOI-2337 b",
+      "hostname": "TOI-2337",
+      "sy_pnum": 1,
+      "pl_orbper": 2.99432,
+      "pl_rade": 10.08808263,
+      "pl_bmasse": 508.5254512,
+      "pl_eqt": 1272.46
+    },
+    {
+      "pl_name": "Kepler-1819 b",
+      "hostname": "Kepler-1819",
+      "sy_pnum": 1,
+      "pl_orbper": 16.48690033,
+      "pl_rade": 3.90351256,
+      "pl_bmasse": 14.5,
+      "pl_eqt": 760.0
+    },
+    {
+      "pl_name": "K2-247 b",
+      "hostname": "K2-247",
+      "sy_pnum": 2,
+      "pl_orbper": 2.25021,
+      "pl_rade": 2.12,
+      "pl_bmasse": 5.14,
+      "pl_eqt": 979.0
+    },
+    {
+      "pl_name": "HD 63935 b",
+      "hostname": "HD 63935",
+      "sy_pnum": 2,
+      "pl_orbper": 9.058807,
+      "pl_rade": 2.91575244,
+      "pl_bmasse": 10.5,
+      "pl_eqt": 825.22
+    },
+    {
+      "pl_name": "Qatar-10 b",
+      "hostname": "Qatar-10",
+      "sy_pnum": 1,
+      "pl_orbper": 1.645321,
+      "pl_rade": 17.295487,
+      "pl_bmasse": 233.92288,
+      "pl_eqt": 1955.0
+    },
+    {
+      "pl_name": "NGTS-35 b",
+      "hostname": "NGTS-35",
+      "sy_pnum": 1,
+      "pl_orbper": 25.241192,
+      "pl_rade": 10.9,
+      "pl_bmasse": 152.0,
+      "pl_eqt": 451.0
+    },
+    {
+      "pl_name": "Kepler-46 c",
+      "hostname": "Kepler-46",
+      "sy_pnum": 3,
+      "pl_orbper": 57.011,
+      "pl_rade": 13.5,
+      "pl_bmasse": 119.499,
+      "pl_eqt": 455.0
+    },
+    {
+      "pl_name": "Kepler-399 b",
+      "hostname": "Kepler-399",
+      "sy_pnum": 3,
+      "pl_orbper": 14.425281,
+      "pl_rade": 0.96,
+      "pl_bmasse": 0.84,
+      "pl_eqt": 773.0
+    },
+    {
+      "pl_name": "Kepler-533 b",
+      "hostname": "Kepler-533",
+      "sy_pnum": 1,
+      "pl_orbper": 28.51120525,
+      "pl_rade": 3.38,
+      "pl_bmasse": 11.4,
+      "pl_eqt": 423.0
+    },
+    {
+      "pl_name": "Kepler-1196 b",
+      "hostname": "Kepler-1196",
+      "sy_pnum": 1,
+      "pl_orbper": 66.1849031,
+      "pl_rade": 2.23,
+      "pl_bmasse": 5.6,
+      "pl_eqt": 436.0
+    },
+    {
+      "pl_name": "Kepler-747 b",
+      "hostname": "Kepler-747",
+      "sy_pnum": 1,
+      "pl_orbper": 35.61760587,
+      "pl_rade": 5.27,
+      "pl_bmasse": 24.1,
+      "pl_eqt": 456.0
+    },
+    {
+      "pl_name": "Kepler-445 d",
+      "hostname": "Kepler-445",
+      "sy_pnum": 3,
+      "pl_orbper": 8.15275,
+      "pl_rade": 1.25,
+      "pl_bmasse": 2.1,
+      "pl_eqt": 305.0
+    },
+    {
+      "pl_name": "Kepler-398 b",
+      "hostname": "Kepler-398",
+      "sy_pnum": 3,
+      "pl_orbper": 4.081423,
+      "pl_rade": 0.93,
+      "pl_bmasse": 0.749,
+      "pl_eqt": 755.0
+    },
+    {
+      "pl_name": "Kepler-178 c",
+      "hostname": "Kepler-178",
+      "sy_pnum": 3,
+      "pl_orbper": 20.552802,
+      "pl_rade": 2.88,
+      "pl_bmasse": 8.65,
+      "pl_eqt": 656.0
+    },
+    {
+      "pl_name": "Kepler-104 d",
+      "hostname": "Kepler-104",
+      "sy_pnum": 3,
+      "pl_orbper": 51.755394,
+      "pl_rade": 3.58,
+      "pl_bmasse": 5.54022107,
+      "pl_eqt": 515.0
+    },
+    {
+      "pl_name": "Kepler-509 b",
+      "hostname": "Kepler-509",
+      "sy_pnum": 1,
+      "pl_orbper": 41.74600392,
+      "pl_rade": 2.49,
+      "pl_bmasse": 6.76,
+      "pl_eqt": 584.0
+    },
+    {
+      "pl_name": "CD Cet b",
+      "hostname": "CD Cet",
+      "sy_pnum": 1,
+      "pl_orbper": 2.2907,
+      "pl_rade": 1.82,
+      "pl_bmasse": 3.95,
+      "pl_eqt": 464.0
+    },
+    {
+      "pl_name": "Kepler-1084 b",
+      "hostname": "Kepler-1084",
+      "sy_pnum": 1,
+      "pl_orbper": 2.05333679,
+      "pl_rade": 1.11,
+      "pl_bmasse": 1.41,
+      "pl_eqt": 1737.0
+    },
+    {
+      "pl_name": "Kepler-161 b",
+      "hostname": "Kepler-161",
+      "sy_pnum": 2,
+      "pl_orbper": 4.921355,
+      "pl_rade": 2.12,
+      "pl_bmasse": 2.63,
+      "pl_eqt": 868.0
+    },
+    {
+      "pl_name": "Kepler-758 e",
+      "hostname": "Kepler-758",
+      "sy_pnum": 4,
+      "pl_orbper": 8.1934719,
+      "pl_rade": 1.53,
+      "pl_bmasse": 2.96,
+      "pl_eqt": 1144.0
+    },
+    {
+      "pl_name": "TOI-1811 b",
+      "hostname": "TOI-1811",
+      "sy_pnum": 1,
+      "pl_orbper": 3.7130765,
+      "pl_rade": 11.14172682,
+      "pl_bmasse": 308.9292116,
+      "pl_eqt": 962.2
+    },
+    {
+      "pl_name": "Kepler-1483 b",
+      "hostname": "Kepler-1483",
+      "sy_pnum": 1,
+      "pl_orbper": 9.5085156,
+      "pl_rade": 1.52,
+      "pl_bmasse": 2.92,
+      "pl_eqt": 1131.0
+    },
+    {
+      "pl_name": "KOI-94 e",
+      "hostname": "KOI-94",
+      "sy_pnum": 4,
+      "pl_orbper": 54.32031,
+      "pl_rade": 6.56,
+      "pl_bmasse": 35.0,
+      "pl_eqt": 584.0
+    },
+    {
+      "pl_name": "Kepler-833 b",
+      "hostname": "Kepler-833",
+      "sy_pnum": 1,
+      "pl_orbper": 18.7546998,
+      "pl_rade": 2.02,
+      "pl_bmasse": 4.74,
+      "pl_eqt": 382.0
+    },
+    {
+      "pl_name": "bet Pic c",
+      "hostname": "bet Pic",
+      "sy_pnum": 2,
+      "pl_orbper": 1192.77951,
+      "pl_rade": 12.5,
+      "pl_bmasse": 3222.46221857,
+      "pl_eqt": 1250.0
+    },
+    {
+      "pl_name": "Kepler-24 b",
+      "hostname": "Kepler-24",
+      "sy_pnum": 4,
+      "pl_orbper": 8.14,
+      "pl_rade": 2.348,
+      "pl_bmasse": 11.14,
+      "pl_eqt": 1050.0
+    },
+    {
+      "pl_name": "TOI-1296 b",
+      "hostname": "TOI-1296",
+      "sy_pnum": 1,
+      "pl_orbper": 3.9443736,
+      "pl_rade": 14.11645916,
+      "pl_bmasse": 95.3,
+      "pl_eqt": 1414.84
+    },
+    {
+      "pl_name": "K2-187 c",
+      "hostname": "K2-187",
+      "sy_pnum": 4,
+      "pl_orbper": 2.871512,
+      "pl_rade": 1.4,
+      "pl_bmasse": 2.54,
+      "pl_eqt": 1173.0
+    },
+    {
+      "pl_name": "TOI-1806.01",
+      "hostname": "TOI-1806",
+      "sy_pnum": 1,
+      "pl_orbper": 15.1454693,
+      "pl_rade": 3.4095367,
+      "pl_bmasse": 11.5,
+      "pl_eqt": 337.47
+    },
+    {
+      "pl_name": "TOI-1798.02",
+      "hostname": "TOI-1798",
+      "sy_pnum": 2,
+      "pl_orbper": 0.437811822,
+      "pl_rade": 1.464,
+      "pl_bmasse": 5.6,
+      "pl_eqt": 1935.83
+    },
+    {
+      "pl_name": "TOI-1630.01",
+      "hostname": "TOI-1630",
+      "sy_pnum": 1,
+      "pl_orbper": 12.055734733,
+      "pl_rade": 2.417,
+      "pl_bmasse": 6.42,
+      "pl_eqt": 584.0
+    },
+    {
+      "pl_name": "Kepler-1699 b",
+      "hostname": "Kepler-1699",
+      "sy_pnum": 1,
+      "pl_orbper": 3.49082,
+      "pl_rade": 1.56671124,
+      "pl_bmasse": 3.08,
+      "pl_eqt": 1010.0
+    },
+    {
+      "pl_name": "Kepler-369 c",
+      "hostname": "Kepler-369",
+      "sy_pnum": 2,
+      "pl_orbper": 14.871572,
+      "pl_rade": 1.41,
+      "pl_bmasse": 2.57,
+      "pl_eqt": 391.0
+    },
+    {
+      "pl_name": "Kepler-1028 b",
+      "hostname": "Kepler-1028",
+      "sy_pnum": 1,
+      "pl_orbper": 2.51462432,
+      "pl_rade": 1.33,
+      "pl_bmasse": 2.33,
+      "pl_eqt": 1217.0
+    },
+    {
+      "pl_name": "TOI-5789 c",
+      "hostname": "TOI-5789",
+      "sy_pnum": 4,
+      "pl_orbper": 12.927748,
+      "pl_rade": 2.86,
+      "pl_bmasse": 5.0,
+      "pl_eqt": 718.0
+    },
+    {
+      "pl_name": "Kepler-635 b",
+      "hostname": "Kepler-635",
+      "sy_pnum": 1,
+      "pl_orbper": 23.44971004,
+      "pl_rade": 2.64,
+      "pl_bmasse": 7.46,
+      "pl_eqt": 802.0
+    },
+    {
+      "pl_name": "TOI-2587 A b",
+      "hostname": "TOI-2587 A",
+      "sy_pnum": 1,
+      "pl_orbper": 5.45664,
+      "pl_rade": 12.07207221,
+      "pl_bmasse": 69.28659273,
+      "pl_eqt": 1445.0
+    },
+    {
+      "pl_name": "Kepler-859 b",
+      "hostname": "Kepler-859",
+      "sy_pnum": 1,
+      "pl_orbper": 20.38177573,
+      "pl_rade": 3.09,
+      "pl_bmasse": 9.75,
+      "pl_eqt": 528.0
+    },
+    {
+      "pl_name": "TOI-5153 b",
+      "hostname": "TOI-5153",
+      "sy_pnum": 1,
+      "pl_orbper": 20.33003,
+      "pl_rade": 11.88151954,
+      "pl_bmasse": 1036.12060682,
+      "pl_eqt": 906.0
+    },
+    {
+      "pl_name": "K2-203 b",
+      "hostname": "K2-203",
+      "sy_pnum": 1,
+      "pl_orbper": 9.6952,
+      "pl_rade": 1.26549392,
+      "pl_bmasse": 2.14,
+      "pl_eqt": 738.4
+    },
+    {
+      "pl_name": "HD 15337 c",
+      "hostname": "HD 15337",
+      "sy_pnum": 2,
+      "pl_orbper": 17.180546,
+      "pl_rade": 2.526,
+      "pl_bmasse": 6.792,
+      "pl_eqt": 656.1
+    },
+    {
+      "pl_name": "Kepler-11 g",
+      "hostname": "Kepler-11",
+      "sy_pnum": 6,
+      "pl_orbper": 118.3807,
+      "pl_rade": 3.33,
+      "pl_bmasse": 25.0,
+      "pl_eqt": 376.0
+    },
+    {
+      "pl_name": "Kepler-1067 b",
+      "hostname": "Kepler-1067",
+      "sy_pnum": 2,
+      "pl_orbper": 0.762129261,
+      "pl_rade": 0.8,
+      "pl_bmasse": 0.437,
+      "pl_eqt": 1872.0
+    },
+    {
+      "pl_name": "Kepler-18 b",
+      "hostname": "Kepler-18",
+      "sy_pnum": 3,
+      "pl_orbper": 3.504725,
+      "pl_rade": 2.0,
+      "pl_bmasse": 6.9,
+      "pl_eqt": 1165.0
+    },
+    {
+      "pl_name": "TOI-178 f",
+      "hostname": "TOI-178",
+      "sy_pnum": 6,
+      "pl_orbper": 15.23335,
+      "pl_rade": 2.417,
+      "pl_bmasse": 5.63,
+      "pl_eqt": 521.0
+    },
+    {
+      "pl_name": "Wolf 1069 b",
+      "hostname": "Wolf 1069",
+      "sy_pnum": 1,
+      "pl_orbper": 15.564,
+      "pl_rade": 1.08,
+      "pl_bmasse": 1.26,
+      "pl_eqt": 250.1
+    },
+    {
+      "pl_name": "Kepler-576 b",
+      "hostname": "Kepler-576",
+      "sy_pnum": 1,
+      "pl_orbper": 29.91136794,
+      "pl_rade": 3.27,
+      "pl_bmasse": 10.7,
+      "pl_eqt": 541.0
+    },
+    {
+      "pl_name": "WASP-54 b",
+      "hostname": "WASP-54",
+      "sy_pnum": 1,
+      "pl_orbper": 3.69364,
+      "pl_rade": 17.71022,
+      "pl_bmasse": 187.5197,
+      "pl_eqt": 1759.0
+    },
+    {
+      "pl_name": "Kepler-1162 b",
+      "hostname": "Kepler-1162",
+      "sy_pnum": 2,
+      "pl_orbper": 32.5637069,
+      "pl_rade": 2.21,
+      "pl_bmasse": 5.52,
+      "pl_eqt": 490.0
+    },
+    {
+      "pl_name": "K2-278 b",
+      "hostname": "K2-278",
+      "sy_pnum": 1,
+      "pl_orbper": 3.334966,
+      "pl_rade": 2.98,
+      "pl_bmasse": 9.17,
+      "pl_eqt": 1711.0
+    },
+    {
+      "pl_name": "Kepler-1693 c",
+      "hostname": "Kepler-1693",
+      "sy_pnum": 2,
+      "pl_orbper": 5.363709927,
+      "pl_rade": 0.97698289,
+      "pl_bmasse": 0.894,
+      "pl_eqt": 1059.0
+    },
+    {
+      "pl_name": "Kepler-1104 b",
+      "hostname": "Kepler-1104",
+      "sy_pnum": 1,
+      "pl_orbper": 5.03728015,
+      "pl_rade": 1.23,
+      "pl_bmasse": 2.04,
+      "pl_eqt": 1321.0
+    },
+    {
+      "pl_name": "Kepler-367 b",
+      "hostname": "Kepler-367",
+      "sy_pnum": 2,
+      "pl_orbper": 37.815724,
+      "pl_rade": 1.3,
+      "pl_bmasse": 2.24,
+      "pl_eqt": 401.0
+    },
+    {
+      "pl_name": "TOI-1052 c",
+      "hostname": "TOI-1052",
+      "sy_pnum": 2,
+      "pl_orbper": 35.806,
+      "pl_rade": 6.48,
+      "pl_bmasse": 34.3,
+      "pl_eqt": 719.0
+    },
+    {
+      "pl_name": "K2-62 c",
+      "hostname": "K2-62",
+      "sy_pnum": 2,
+      "pl_orbper": 16.19697,
+      "pl_rade": 1.99,
+      "pl_bmasse": 4.62,
+      "pl_eqt": 495.0
+    },
+    {
+      "pl_name": "Kepler-610 b",
+      "hostname": "Kepler-610",
+      "sy_pnum": 2,
+      "pl_orbper": 6.996926554,
+      "pl_rade": 4.19,
+      "pl_bmasse": 16.3,
+      "pl_eqt": 888.0
+    },
+    {
+      "pl_name": "Kepler-1233 b",
+      "hostname": "Kepler-1233",
+      "sy_pnum": 1,
+      "pl_orbper": 45.1263042,
+      "pl_rade": 2.6,
+      "pl_bmasse": 7.27,
+      "pl_eqt": 604.0
+    },
+    {
+      "pl_name": "TOI-5734 b",
+      "hostname": "TOI-5734",
+      "sy_pnum": 1,
+      "pl_orbper": 6.1841876,
+      "pl_rade": 2.1,
+      "pl_bmasse": 9.1,
+      "pl_eqt": 688.0
+    },
+    {
+      "pl_name": "TOI-4201 b",
+      "hostname": "TOI-4201",
+      "sy_pnum": 1,
+      "pl_orbper": 3.5819194,
+      "pl_rade": 13.67495645,
+      "pl_bmasse": 788.21444936,
+      "pl_eqt": 725.0
+    },
+    {
+      "pl_name": "Kepler-1273 b",
+      "hostname": "Kepler-1273",
+      "sy_pnum": 1,
+      "pl_orbper": 28.625653,
+      "pl_rade": 2.49,
+      "pl_bmasse": 6.76,
+      "pl_eqt": 573.0
+    },
+    {
+      "pl_name": "Kepler-363 d",
+      "hostname": "Kepler-363",
+      "sy_pnum": 3,
+      "pl_orbper": 11.932125,
+      "pl_rade": 2.05,
+      "pl_bmasse": 4.86,
+      "pl_eqt": 905.0
+    },
+    {
+      "pl_name": "Kepler-1945 b",
+      "hostname": "Kepler-1945",
+      "sy_pnum": 1,
+      "pl_orbper": 6.080039978,
+      "pl_rade": 1.289,
+      "pl_bmasse": 2.21,
+      "pl_eqt": 808.0
+    },
+    {
+      "pl_name": "G 9-40 b",
+      "hostname": "G 9-40",
+      "sy_pnum": 1,
+      "pl_orbper": 5.7459982,
+      "pl_rade": 1.9,
+      "pl_bmasse": 4.0,
+      "pl_eqt": 440.6
+    },
+    {
+      "pl_name": "Kepler-491 b",
+      "hostname": "Kepler-491",
+      "sy_pnum": 1,
+      "pl_orbper": 4.225384512,
+      "pl_rade": 8.92,
+      "pl_bmasse": 59.0,
+      "pl_eqt": 1111.0
+    },
+    {
+      "pl_name": "Kepler-1107 b",
+      "hostname": "Kepler-1107",
+      "sy_pnum": 1,
+      "pl_orbper": 0.571038518,
+      "pl_rade": 1.34,
+      "pl_bmasse": 2.36,
+      "pl_eqt": 1897.0
+    },
+    {
+      "pl_name": "Kepler-336 d",
+      "hostname": "Kepler-336",
+      "sy_pnum": 3,
+      "pl_orbper": 20.678772,
+      "pl_rade": 2.37,
+      "pl_bmasse": 6.21,
+      "pl_eqt": 749.0
+    },
+    {
+      "pl_name": "TOI-4515 b",
+      "hostname": "TOI-4515",
+      "sy_pnum": 1,
+      "pl_orbper": 15.266446,
+      "pl_rade": 12.17,
+      "pl_bmasse": 637.0,
+      "pl_eqt": 705.0
+    },
+    {
+      "pl_name": "Kepler-227 c",
+      "hostname": "Kepler-227",
+      "sy_pnum": 2,
+      "pl_orbper": 54.418694,
+      "pl_rade": 3.04,
+      "pl_bmasse": 9.48,
+      "pl_eqt": 443.0
+    },
+    {
+      "pl_name": "Kepler-226 d",
+      "hostname": "Kepler-226",
+      "sy_pnum": 3,
+      "pl_orbper": 8.109044,
+      "pl_rade": 1.22,
+      "pl_bmasse": 1.98,
+      "pl_eqt": 800.0
+    },
+    {
+      "pl_name": "TOI-5599 b",
+      "hostname": "TOI-5599",
+      "sy_pnum": 1,
+      "pl_orbper": 5.43691503941,
+      "pl_rade": 7.1888212,
+      "pl_bmasse": 40.9,
+      "pl_eqt": 1496.0
+    },
+    {
+      "pl_name": "Kepler-955 b",
+      "hostname": "Kepler-955",
+      "sy_pnum": 1,
+      "pl_orbper": 14.53244172,
+      "pl_rade": 3.13,
+      "pl_bmasse": 9.96,
+      "pl_eqt": 664.0
+    },
+    {
+      "pl_name": "TOI-2992 b",
+      "hostname": "TOI-2992",
+      "sy_pnum": 1,
+      "pl_orbper": 3.007812,
+      "pl_rade": 13.75341932,
+      "pl_bmasse": 1058.36859531,
+      "pl_eqt": 1726.0
+    },
+    {
+      "pl_name": "Kepler-450 c",
+      "hostname": "Kepler-450",
+      "sy_pnum": 3,
+      "pl_orbper": 15.413135,
+      "pl_rade": 2.62,
+      "pl_bmasse": 12.5,
+      "pl_eqt": 944.0
+    },
+    {
+      "pl_name": "Kepler-1735 b",
+      "hostname": "Kepler-1735",
+      "sy_pnum": 1,
+      "pl_orbper": 7.71792984,
+      "pl_rade": 1.19429134,
+      "pl_bmasse": 1.84,
+      "pl_eqt": 502.0
+    },
+    {
+      "pl_name": "TOI-375 d",
+      "hostname": "TOI-375",
+      "sy_pnum": 3,
+      "pl_orbper": 297.9,
+      "pl_rade": 13.6,
+      "pl_bmasse": 445.59542661,
+      "pl_eqt": 434.0
+    },
+    {
+      "pl_name": "TOI-209 b",
+      "hostname": "TOI-209",
+      "sy_pnum": 1,
+      "pl_orbper": 4.37943587445,
+      "pl_rade": 2.3947209,
+      "pl_bmasse": 6.32,
+      "pl_eqt": 845.78
+    },
+    {
+      "pl_name": "Kepler-1815 b",
+      "hostname": "Kepler-1815",
+      "sy_pnum": 1,
+      "pl_orbper": 12.19139957,
+      "pl_rade": 2.7489262,
+      "pl_bmasse": 7.99,
+      "pl_eqt": 763.0
+    },
+    {
+      "pl_name": "WASP-197 b",
+      "hostname": "WASP-197",
+      "sy_pnum": 1,
+      "pl_orbper": 5.167228,
+      "pl_rade": 14.44837612,
+      "pl_bmasse": 403.32424848,
+      "pl_eqt": 1665.0
+    }
+  ],
+  "perturbations": [
+    {
+      "perturbed_name": "HD 18143 d",
+      "source_hostname": "HD 18143",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 99492 d",
+      "source_hostname": "HD 99492",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-238 d",
+      "source_hostname": "TOI-238",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 13808 d",
+      "source_hostname": "HD 13808",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-312 d",
+      "source_hostname": "Kepler-312",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HIP 97166 d",
+      "source_hostname": "HIP 97166",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-28 d",
+      "source_hostname": "Kepler-28",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-363 e",
+      "source_hostname": "Kepler-363",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-1489 d",
+      "source_hostname": "Kepler-1489",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-94 d",
+      "source_hostname": "Kepler-94",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-1408 d",
+      "source_hostname": "TOI-1408",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-337 d",
+      "source_hostname": "Kepler-337",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-373 d",
+      "source_hostname": "Kepler-373",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-5799 d",
+      "source_hostname": "TOI-5799",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-411 f",
+      "source_hostname": "Kepler-411",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "Kepler-305 f",
+      "source_hostname": "Kepler-305",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "Kepler-214 d",
+      "source_hostname": "Kepler-214",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 20782 c",
+      "source_hostname": "HD 20782",
+      "existing_letters": [
+        "b"
+      ],
+      "next_letter": "c",
+      "system_size": 1
+    },
+    {
+      "perturbed_name": "Kepler-138 f",
+      "source_hostname": "Kepler-138",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "Kepler-306 f",
+      "source_hostname": "Kepler-306",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "HD 164604 d",
+      "source_hostname": "HD 164604",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-232 d",
+      "source_hostname": "Kepler-232",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-379 d",
+      "source_hostname": "Kepler-379",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-963 d",
+      "source_hostname": "Kepler-963",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-226 e",
+      "source_hostname": "Kepler-226",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "HD 107148 d",
+      "source_hostname": "HD 107148",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 109833 d",
+      "source_hostname": "HD 109833",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-625 d",
+      "source_hostname": "Kepler-625",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-1705 d",
+      "source_hostname": "Kepler-1705",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 63433 e",
+      "source_hostname": "HD 63433",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "WASP-47 f",
+      "source_hostname": "WASP-47",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "Kepler-238 g",
+      "source_hostname": "Kepler-238",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "next_letter": "g",
+      "system_size": 5
+    },
+    {
+      "perturbed_name": "Kepler-346 d",
+      "source_hostname": "Kepler-346",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "KOI-134 d",
+      "source_hostname": "KOI-134",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-968 d",
+      "source_hostname": "Kepler-968",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-23 e",
+      "source_hostname": "Kepler-23",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-1067 d",
+      "source_hostname": "Kepler-1067",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-407 d",
+      "source_hostname": "Kepler-407",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "LP 890-9 d",
+      "source_hostname": "LP 890-9",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-221 f",
+      "source_hostname": "Kepler-221",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "K2-413 d",
+      "source_hostname": "K2-413",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-374 d",
+      "source_hostname": "K2-374",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 104067 d",
+      "source_hostname": "HD 104067",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-405 d",
+      "source_hostname": "Kepler-405",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "GJ 328 d",
+      "source_hostname": "GJ 328",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "BD+20 2457 d",
+      "source_hostname": "BD+20 2457",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-1064 d",
+      "source_hostname": "TOI-1064",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-1834 d",
+      "source_hostname": "Kepler-1834",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-62 d",
+      "source_hostname": "K2-62",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-758 f",
+      "source_hostname": "Kepler-758",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "Kepler-216 d",
+      "source_hostname": "Kepler-216",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 113538 d",
+      "source_hostname": "HD 113538",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-430 d",
+      "source_hostname": "Kepler-430",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-7510 e",
+      "source_hostname": "TOI-7510",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "K2-138 h",
+      "source_hostname": "K2-138",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      "next_letter": "h",
+      "system_size": 6
+    },
+    {
+      "perturbed_name": "HD 183263 d",
+      "source_hostname": "HD 183263",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-1471 d",
+      "source_hostname": "Kepler-1471",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-57 d",
+      "source_hostname": "Kepler-57",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-1801 d",
+      "source_hostname": "Kepler-1801",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-166 e",
+      "source_hostname": "Kepler-166",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-1085 d",
+      "source_hostname": "Kepler-1085",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-219 e",
+      "source_hostname": "K2-219",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-352 e",
+      "source_hostname": "Kepler-352",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "TOI-1386 d",
+      "source_hostname": "TOI-1386",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-799 d",
+      "source_hostname": "Kepler-799",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-1294 d",
+      "source_hostname": "TOI-1294",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-4600 d",
+      "source_hostname": "TOI-4600",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 134987 d",
+      "source_hostname": "HD 134987",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-225 d",
+      "source_hostname": "Kepler-225",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-132 f",
+      "source_hostname": "Kepler-132",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "Kepler-200 d",
+      "source_hostname": "Kepler-200",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-310 e",
+      "source_hostname": "Kepler-310",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "K2-240 d",
+      "source_hostname": "K2-240",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 65216 d",
+      "source_hostname": "HD 65216",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-136 e",
+      "source_hostname": "K2-136",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-598 d",
+      "source_hostname": "Kepler-598",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-286 f",
+      "source_hostname": "Kepler-286",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "TOI-201 d",
+      "source_hostname": "TOI-201",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-183 e",
+      "source_hostname": "K2-183",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "GJ 3323 d",
+      "source_hostname": "GJ 3323",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 93351 d",
+      "source_hostname": "HD 93351",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 260655 d",
+      "source_hostname": "HD 260655",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-296 g",
+      "source_hostname": "Kepler-296",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "next_letter": "g",
+      "system_size": 5
+    },
+    {
+      "perturbed_name": "DMPP-2 e",
+      "source_hostname": "DMPP-2",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "HD 34445 h",
+      "source_hostname": "HD 34445",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      "next_letter": "h",
+      "system_size": 6
+    },
+    {
+      "perturbed_name": "Kepler-206 e",
+      "source_hostname": "Kepler-206",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-50 d",
+      "source_hostname": "Kepler-50",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "GJ 15 A d",
+      "source_hostname": "GJ 15 A",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-2093 d",
+      "source_hostname": "TOI-2093",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 23472 g",
+      "source_hostname": "HD 23472",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "next_letter": "g",
+      "system_size": 5
+    },
+    {
+      "perturbed_name": "K2-158 d",
+      "source_hostname": "K2-158",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-116 d",
+      "source_hostname": "Kepler-116",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-201 d",
+      "source_hostname": "K2-201",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-253 e",
+      "source_hostname": "Kepler-253",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "HD 28185 d",
+      "source_hostname": "HD 28185",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "V1298 Tau f",
+      "source_hostname": "V1298 Tau",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "TOI-1839 d",
+      "source_hostname": "TOI-1839",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "GJ 411 c",
+      "source_hostname": "GJ 411",
+      "existing_letters": [
+        "b"
+      ],
+      "next_letter": "c",
+      "system_size": 1
+    },
+    {
+      "perturbed_name": "Kepler-209 d",
+      "source_hostname": "Kepler-209",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "BD-08 2823 d",
+      "source_hostname": "BD-08 2823",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "LHS 1140 d",
+      "source_hostname": "LHS 1140",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 1461 d",
+      "source_hostname": "HD 1461",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-361 d",
+      "source_hostname": "Kepler-361",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-367 d",
+      "source_hostname": "Kepler-367",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "GJ 887 f",
+      "source_hostname": "GJ 887",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "HD 160691 f",
+      "source_hostname": "HD 160691",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "GJ 4274 d",
+      "source_hostname": "GJ 4274",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 128311 d",
+      "source_hostname": "HD 128311",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 163607 d",
+      "source_hostname": "HD 163607",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-949 d",
+      "source_hostname": "Kepler-949",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-102 g",
+      "source_hostname": "Kepler-102",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "next_letter": "g",
+      "system_size": 5
+    },
+    {
+      "perturbed_name": "Kepler-134 d",
+      "source_hostname": "Kepler-134",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-265 f",
+      "source_hostname": "Kepler-265",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "GJ 1002 d",
+      "source_hostname": "GJ 1002",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-291 d",
+      "source_hostname": "Kepler-291",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-314 d",
+      "source_hostname": "Kepler-314",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-202 d",
+      "source_hostname": "Kepler-202",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-725 d",
+      "source_hostname": "Kepler-725",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-146 d",
+      "source_hostname": "K2-146",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-776 d",
+      "source_hostname": "TOI-776",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-406 b",
+      "source_hostname": "TOI-406",
+      "existing_letters": [
+        "c"
+      ],
+      "next_letter": "b",
+      "system_size": 1
+    },
+    {
+      "perturbed_name": "Kepler-415 d",
+      "source_hostname": "Kepler-415",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "bet Pic d",
+      "source_hostname": "bet Pic",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-182 d",
+      "source_hostname": "Kepler-182",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-376 d",
+      "source_hostname": "Kepler-376",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 48265 d",
+      "source_hostname": "HD 48265",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-362 d",
+      "source_hostname": "Kepler-362",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 181433 e",
+      "source_hostname": "HD 181433",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "HD 92788 d",
+      "source_hostname": "HD 92788",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-330 d",
+      "source_hostname": "Kepler-330",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-241 d",
+      "source_hostname": "Kepler-241",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 63935 d",
+      "source_hostname": "HD 63935",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 74698 d",
+      "source_hostname": "HD 74698",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-953 d",
+      "source_hostname": "Kepler-953",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-256 f",
+      "source_hostname": "Kepler-256",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "GJ 367 e",
+      "source_hostname": "GJ 367",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-274 d",
+      "source_hostname": "Kepler-274",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-166 c",
+      "source_hostname": "K2-166",
+      "existing_letters": [
+        "b"
+      ],
+      "next_letter": "c",
+      "system_size": 1
+    },
+    {
+      "perturbed_name": "TOI-1269 d",
+      "source_hostname": "TOI-1269",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-270 e",
+      "source_hostname": "TOI-270",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "K2-83 d",
+      "source_hostname": "K2-83",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 31527 e",
+      "source_hostname": "HD 31527",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-520 d",
+      "source_hostname": "Kepler-520",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 12661 d",
+      "source_hostname": "HD 12661",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-211 d",
+      "source_hostname": "Kepler-211",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-123 d",
+      "source_hostname": "Kepler-123",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-395 d",
+      "source_hostname": "K2-395",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-199 d",
+      "source_hostname": "K2-199",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-261 d",
+      "source_hostname": "Kepler-261",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-309 d",
+      "source_hostname": "Kepler-309",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-322 d",
+      "source_hostname": "Kepler-322",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "GJ 676 A f",
+      "source_hostname": "GJ 676 A",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "HAT-P-44 d",
+      "source_hostname": "HAT-P-44",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-942 d",
+      "source_hostname": "TOI-942",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-865 d",
+      "source_hostname": "Kepler-865",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-1670 d",
+      "source_hostname": "TOI-1670",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 67087 d",
+      "source_hostname": "HD 67087",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "AU Mic f",
+      "source_hostname": "AU Mic",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "Kepler-119 d",
+      "source_hostname": "Kepler-119",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 62364 d",
+      "source_hostname": "HD 62364",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "TOI-1272 d",
+      "source_hostname": "TOI-1272",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 111232 d",
+      "source_hostname": "HD 111232",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-414 d",
+      "source_hostname": "Kepler-414",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-268 g",
+      "source_hostname": "K2-268",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "next_letter": "g",
+      "system_size": 5
+    },
+    {
+      "perturbed_name": "Kepler-131 d",
+      "source_hostname": "Kepler-131",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "PSR B1257+12 e",
+      "source_hostname": "PSR B1257+12",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-1814 d",
+      "source_hostname": "Kepler-1814",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-323 d",
+      "source_hostname": "Kepler-323",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-110 d",
+      "source_hostname": "Kepler-110",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-396 d",
+      "source_hostname": "K2-396",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-308 d",
+      "source_hostname": "Kepler-308",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "GJ 1061 e",
+      "source_hostname": "GJ 1061",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-403 e",
+      "source_hostname": "Kepler-403",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "HD 7924 e",
+      "source_hostname": "HD 7924",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-299 f",
+      "source_hostname": "Kepler-299",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "Kepler-298 e",
+      "source_hostname": "Kepler-298",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-113 d",
+      "source_hostname": "Kepler-113",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 147018 d",
+      "source_hostname": "HD 147018",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "KMT-2022-BLG-1818L d",
+      "source_hostname": "KMT-2022-BLG-1818L",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-763 e",
+      "source_hostname": "Kepler-763",
+      "existing_letters": [
+        "b",
+        "c",
+        "d"
+      ],
+      "next_letter": "e",
+      "system_size": 3
+    },
+    {
+      "perturbed_name": "Kepler-283 d",
+      "source_hostname": "Kepler-283",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-263 d",
+      "source_hostname": "Kepler-263",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 72659 d",
+      "source_hostname": "HD 72659",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-140 d",
+      "source_hostname": "Kepler-140",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-1365 d",
+      "source_hostname": "Kepler-1365",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-338 f",
+      "source_hostname": "Kepler-338",
+      "existing_letters": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "next_letter": "f",
+      "system_size": 4
+    },
+    {
+      "perturbed_name": "HD 207832 d",
+      "source_hostname": "HD 207832",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-224 d",
+      "source_hostname": "K2-224",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-185 d",
+      "source_hostname": "K2-185",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-188 d",
+      "source_hostname": "K2-188",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-1016 d",
+      "source_hostname": "Kepler-1016",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "K2-247 d",
+      "source_hostname": "K2-247",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-769 d",
+      "source_hostname": "Kepler-769",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-1266 d",
+      "source_hostname": "Kepler-1266",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "HD 110113 d",
+      "source_hostname": "HD 110113",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-108 d",
+      "source_hostname": "Kepler-108",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "GJ 3929 d",
+      "source_hostname": "GJ 3929",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "7 CMa d",
+      "source_hostname": "7 CMa",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-121 d",
+      "source_hostname": "Kepler-121",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    },
+    {
+      "perturbed_name": "Kepler-300 d",
+      "source_hostname": "Kepler-300",
+      "existing_letters": [
+        "b",
+        "c"
+      ],
+      "next_letter": "d",
+      "system_size": 2
+    }
+  ],
+  "metadata": {
+    "n_real": 200,
+    "n_perturbations": 200,
+    "properties": [
+      "pl_orbper",
+      "pl_rade",
+      "pl_bmasse",
+      "pl_eqt"
+    ],
+    "seeds": {
+      "torch": 42,
+      "numpy": 42,
+      "random": 42
+    }
+  }
+}
