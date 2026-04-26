@@ -2,3 +2,4 @@ mp-api>=0.41.0
 pymatgen>=2024.1.26
 pyyaml>=6.0
 numpy>=1.24
+astroquery>=0.4.7
