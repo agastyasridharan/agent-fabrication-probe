@@ -151,7 +151,7 @@ def fig_layer_sweep():
     # Best layer marker
     ax.annotate(f'Peak: layer {best_layer}\nAUROC = {test_aurocs[best_layer]:.3f}',
                 xy=(best_layer, test_aurocs[best_layer]),
-                xytext=(best_layer + 4, test_aurocs[best_layer] - 0.06),
+                xytext=(best_layer - 8, test_aurocs[best_layer] + 0.07),
                 fontsize=10, fontweight='bold', color=FABRICATE_COLOR,
                 arrowprops=dict(arrowstyle='->', color=FABRICATE_COLOR, lw=1.5),
                 bbox=dict(boxstyle='round,pad=0.3', facecolor='white',
@@ -159,17 +159,18 @@ def fig_layer_sweep():
 
     # Success threshold
     ax.axhline(0.75, color=ACCENT, linestyle=':', alpha=0.7, linewidth=1.2)
-    ax.text(31.5, 0.755, 'Success\nthreshold', fontsize=8, color=ACCENT,
-            ha='right', va='bottom')
+    ax.text(26, 0.72, 'Success threshold (0.75)', fontsize=8, color=ACCENT,
+            ha='center', va='top',
+            bbox=dict(facecolor='white', edgecolor='none', alpha=0.8, pad=1))
 
     # Chance line
     ax.axhline(0.5, color='gray', linestyle='--', alpha=0.3, linewidth=1)
-    ax.text(0.5, 0.51, 'Chance', fontsize=8, color='gray', alpha=0.5)
+    ax.text(26, 0.505, 'Chance', fontsize=8, color='gray', alpha=0.5)
 
     # Layer regions
     for x0, x1, label in [(0, 8, 'Early layers'), (8, 24, 'Mid layers'), (24, 32, 'Late layers')]:
         ax.axvspan(x0, x1, alpha=0.03, color=DARK)
-        ax.text((x0 + x1) / 2, 0.47, label, fontsize=8, color='gray',
+        ax.text((x0 + x1) / 2, 0.46, label, fontsize=8, color='gray',
                 ha='center', alpha=0.6)
 
     ax.set_xlabel('Layer')
@@ -177,7 +178,7 @@ def fig_layer_sweep():
     ax.set_title('Fabrication Probe: Per-Layer AUROC on Material-Split Test Set')
     ax.legend(loc='lower right', framealpha=0.9)
     ax.set_xlim(-0.5, 32.5)
-    ax.set_ylim(0.44, 1.02)
+    ax.set_ylim(0.43, 1.04)
     ax.grid(True, alpha=0.15, color=GRID_COLOR)
 
     savefig(fig, '01_layer_sweep')
@@ -197,32 +198,30 @@ def fig_prompt_rates():
         fab = sum(heuristic_label(t['assistant_response']) for t in sub)
         rates.append(fab / len(sub))
 
-    fig, ax = plt.subplots(figsize=(8, 4.5))
+    fig, ax = plt.subplots(figsize=(10, 4.5))
 
-    bars = ax.barh(prompts, rates, color=[PROMPT_COLORS[p] for p in prompts],
-                   edgecolor='white', linewidth=1.5, height=0.6)
+    prompt_labels = ['honesty', 'pressure', 'neutral', 'balanced', 'expert']
+    bars = ax.barh(prompt_labels, rates, color=[PROMPT_COLORS[p] for p in prompts],
+                   edgecolor='white', linewidth=1.5, height=0.55)
 
+    # Labels: always to the right of the bar, never inside
     for bar, rate, prompt in zip(bars, rates, prompts):
-        if rate > 0.05:
-            ax.text(rate - 0.02, bar.get_y() + bar.get_height() / 2,
-                    f'{rate:.1%}', ha='right', va='center', fontweight='bold',
-                    color='white', fontsize=12)
-        else:
-            ax.text(rate + 0.02, bar.get_y() + bar.get_height() / 2,
-                    f'{rate:.1%}', ha='left', va='center', fontweight='bold',
-                    color=PROMPT_COLORS[prompt], fontsize=12)
+        x_pos = max(rate, 0.01) + 0.015
+        ax.text(x_pos, bar.get_y() + bar.get_height() / 2,
+                f'{rate:.1%}', ha='left', va='center', fontweight='bold',
+                color=PROMPT_COLORS[prompt], fontsize=13)
 
     ax.set_xlabel('Fabrication Rate')
     ax.set_title('Fabrication Rate by System Prompt')
-    ax.set_xlim(0, 1.08)
+    ax.set_xlim(0, 1.25)
     ax.invert_yaxis()
 
-    # Annotations
-    ax.annotate('"Approximate estimates\n are acceptable"',
-                xy=(rates[1] + 0.08, 1), fontsize=8, color='gray',
+    # Annotations: placed well clear of percentage labels
+    ax.annotate('"Approximate estimates are acceptable"',
+                xy=(0.18, 1), fontsize=8.5, color='gray',
                 fontstyle='italic', va='center')
-    ax.annotate('"Draw on your deep\n knowledge"',
-                xy=(rates[4] - 0.22, 4), fontsize=8, color='white',
+    ax.annotate('"Draw on your deep knowledge"',
+                xy=(0.18, 4), fontsize=8.5, color='gray',
                 fontstyle='italic', va='center')
 
     ax.grid(True, axis='x', alpha=0.15, color=GRID_COLOR)
