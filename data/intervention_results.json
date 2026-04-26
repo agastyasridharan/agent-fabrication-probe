@@ -1,0 +1,49 @@
+{
+  "baseline_fab_rate": 0.5833333333333334,
+  "injection_fab_rate": 0.25,
+  "injection_reduction": 0.5714285714285715,
+  "steering": {
+    "0.5": {
+      "fab_rate": 0.5166666666666667,
+      "reduction": 0.11428571428571425
+    },
+    "1.0": {
+      "fab_rate": 0.5833333333333334,
+      "reduction": 0.0
+    },
+    "2.0": {
+      "fab_rate": 0.5833333333333334,
+      "reduction": 0.0
+    },
+    "3.0": {
+      "fab_rate": 0.6333333333333333,
+      "reduction": -0.08571428571428559
+    },
+    "5.0": {
+      "fab_rate": 0.6,
+      "reduction": -0.028571428571428466
+    },
+    "8.0": {
+      "fab_rate": 0.65,
+      "reduction": -0.11428571428571425
+    },
+    "10.0": {
+      "fab_rate": 0.65,
+      "reduction": -0.11428571428571425
+    },
+    "15.0": {
+      "fab_rate": 0.48333333333333334,
+      "reduction": 0.17142857142857149
+    },
+    "20.0": {
+      "fab_rate": 0.2833333333333333,
+      "reduction": 0.5142857142857143
+    }
+  },
+  "baseline_accuracy": 0.955,
+  "injection_accuracy": 0.955,
+  "accuracy_degradation": 0.0,
+  "fp_rate": 0.175,
+  "threshold_tau": 0.5399999999999998,
+  "best_layer": 16
+}
