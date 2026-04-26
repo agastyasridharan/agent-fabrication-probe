@@ -1,0 +1,186 @@
+{
+  "layer_sweep": [
+    {
+      "layer": 0,
+      "train_auroc": 0.5,
+      "test_auroc": 0.5
+    },
+    {
+      "layer": 1,
+      "train_auroc": 0.9533467802181385,
+      "test_auroc": 0.9588235294117647
+    },
+    {
+      "layer": 2,
+      "train_auroc": 0.9609853578365456,
+      "test_auroc": 0.9783224400871461
+    },
+    {
+      "layer": 3,
+      "train_auroc": 0.9698752427909757,
+      "test_auroc": 0.9843137254901961
+    },
+    {
+      "layer": 4,
+      "train_auroc": 0.967409980576722,
+      "test_auroc": 0.9825708061002179
+    },
+    {
+      "layer": 5,
+      "train_auroc": 0.9810809801284924,
+      "test_auroc": 0.9882352941176471
+    },
+    {
+      "layer": 6,
+      "train_auroc": 0.9839010906917675,
+      "test_auroc": 0.9898692810457517
+    },
+    {
+      "layer": 7,
+      "train_auroc": 0.9875242790975647,
+      "test_auroc": 0.993355119825708
+    },
+    {
+      "layer": 8,
+      "train_auroc": 0.9834341849693711,
+      "test_auroc": 0.9911764705882353
+    },
+    {
+      "layer": 9,
+      "train_auroc": 0.9802592260570746,
+      "test_auroc": 0.9903050108932463
+    },
+    {
+      "layer": 10,
+      "train_auroc": 0.9934819961153444,
+      "test_auroc": 0.9950980392156863
+    },
+    {
+      "layer": 11,
+      "train_auroc": 0.9970865082922455,
+      "test_auroc": 0.996078431372549
+    },
+    {
+      "layer": 12,
+      "train_auroc": 0.9976281189302256,
+      "test_auroc": 0.996078431372549
+    },
+    {
+      "layer": 13,
+      "train_auroc": 0.995965934558494,
+      "test_auroc": 0.9959694989106753
+    },
+    {
+      "layer": 14,
+      "train_auroc": 0.9962834304497236,
+      "test_auroc": 0.9956427015250544
+    },
+    {
+      "layer": 15,
+      "train_auroc": 0.9972545943523083,
+      "test_auroc": 0.9968409586056646
+    },
+    {
+      "layer": 16,
+      "train_auroc": 0.9977401763036008,
+      "test_auroc": 0.9966230936819171
+    },
+    {
+      "layer": 17,
+      "train_auroc": 0.9981884057971014,
+      "test_auroc": 0.9965141612200435
+    },
+    {
+      "layer": 18,
+      "train_auroc": 0.9988047213506649,
+      "test_auroc": 0.9970588235294117
+    },
+    {
+      "layer": 19,
+      "train_auroc": 0.9992342746152697,
+      "test_auroc": 0.9973856209150326
+    },
+    {
+      "layer": 20,
+      "train_auroc": 0.99945838936202,
+      "test_auroc": 0.9973856209150326
+    },
+    {
+      "layer": 21,
+      "train_auroc": 0.999719856566562,
+      "test_auroc": 0.9973856209150326
+    },
+    {
+      "layer": 22,
+      "train_auroc": 0.9997385327954579,
+      "test_auroc": 0.9971677559912854
+    },
+    {
+      "layer": 23,
+      "train_auroc": 0.9997572090243537,
+      "test_auroc": 0.9971677559912854
+    },
+    {
+      "layer": 24,
+      "train_auroc": 0.9997572090243537,
+      "test_auroc": 0.9974945533769063
+    },
+    {
+      "layer": 25,
+      "train_auroc": 0.9997572090243537,
+      "test_auroc": 0.9971677559912854
+    },
+    {
+      "layer": 26,
+      "train_auroc": 0.9998132377110415,
+      "test_auroc": 0.9981481481481481
+    },
+    {
+      "layer": 27,
+      "train_auroc": 0.9999439713133125,
+      "test_auroc": 0.9981481481481481
+    },
+    {
+      "layer": 28,
+      "train_auroc": 0.9999626475422083,
+      "test_auroc": 0.9982570806100217
+    },
+    {
+      "layer": 29,
+      "train_auroc": 0.9999813237711042,
+      "test_auroc": 0.9982570806100217
+    },
+    {
+      "layer": 30,
+      "train_auroc": 1.0,
+      "test_auroc": 0.9981481481481481
+    },
+    {
+      "layer": 31,
+      "train_auroc": 1.0,
+      "test_auroc": 0.9979302832244008
+    },
+    {
+      "layer": 32,
+      "train_auroc": 1.0,
+      "test_auroc": 0.9962962962962962
+    }
+  ],
+  "best_layer": 28,
+  "best_test_auroc": 0.9982570806100217,
+  "train_size": 526,
+  "test_size": 224,
+  "train_materials": 140,
+  "test_materials": 60,
+  "train_labels": {
+    "ADMIT": 388,
+    "FABRICATE": 138
+  },
+  "test_labels": {
+    "ADMIT": 170,
+    "FABRICATE": 54
+  },
+  "false_positive_rate": 0.0425,
+  "contrast_auroc": 1.0,
+  "sweep_valid": true
+}

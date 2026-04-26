@@ -1,0 +1,7 @@
+{
+  "tool_regex_auroc": 0.5,
+  "response_regex_auroc": 0.984375,
+  "entropy_auroc": null,
+  "selfask_auroc": null,
+  "truthfulqa_auroc": null
+}
