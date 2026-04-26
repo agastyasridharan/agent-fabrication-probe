@@ -38,11 +38,15 @@ np.random.seed(CFG["seeds"]["numpy"])
 PROPERTIES = ["pl_orbper", "pl_rade", "pl_bmasse", "pl_eqt"]
 
 
+def _strip_unit(v):
+    return v.value if hasattr(v, "value") else v
+
+
 def query_archive(where: str, select: str) -> list[dict]:
     tab = NasaExoplanetArchive.query_criteria(
         table="pscomppars", select=select, where=where,
     )
-    return [{c: row[c] for c in tab.colnames} for row in tab]
+    return [{c: _strip_unit(row[c]) for c in tab.colnames} for row in tab]
 
 
 def fetch_real_planets(n_target: int) -> list[dict]:
