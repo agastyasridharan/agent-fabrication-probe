@@ -1,0 +1,8 @@
+{
+  "cross_tool_auroc": 0.7016843971631206,
+  "cross_tool_n": 200,
+  "cross_tool_fab_rate": 0.06,
+  "cross_template_auroc": 0.8100198412698413,
+  "cross_template_n": 200,
+  "cross_template_fab_rate": 0.72
+}
