@@ -1,7 +1,10 @@
-# Tool-Null Confabulation Probe
+# Agent Fabrication Probe
 
-Detecting and preventing tool-grounded fabrication in language model agents
-using linear probes on residual-stream activations.
+> Built at the **SCSP National Security Technology Hackathon**.
+
+Detecting and preventing tool-grounded fabrication in autonomous research
+agents using mechanistic interpretability — linear probes on residual-stream
+activations that catch hallucinations before they happen.
 
 We train a logistic regression classifier on the internal representations
 of Llama-3.1-8B-Instruct, extracted at the last prompt token before
@@ -21,28 +24,31 @@ query phrasings never seen during training (novel paraphrased templates,
 
 ## Motivation
 
-Autonomous AI agents hold immense potential to accelerate research, but
-they hallucinate. An agent that can query databases, run computations,
-and synthesize literature is only useful if you can trust its outputs.
-Today, you cannot: language models routinely produce confident, specific,
-wrong answers that are indistinguishable from correct ones. In agentic
-settings, where outputs feed into downstream tools, decisions, and other
-agents, a single hallucination can silently contaminate an entire
-research pipeline.
+Autonomous research agents — systems that query databases, run
+computations, and synthesize findings without human oversight — are
+only as useful as their outputs are trustworthy. Right now, they are
+not. When a tool call returns nothing, language models routinely
+fabricate confident, specific, wrong answers that look identical to
+correct ones. In an agentic pipeline, where one agent's output feeds
+into another's input, a single fabrication propagates silently and
+can contaminate downstream decisions, experiments, and resources.
 
-This project uses mechanistic interpretability to build a hallucination
-detector that works before the hallucination happens. We read the
-model's internal representations at the moment just before it begins
-generating a response and predict whether the output will be faithful
-or fabricated. If the detector fires, we intervene in real time,
-before the hallucination ever reaches the user or any downstream system.
+We use mechanistic interpretability techniques to detect fabrication
+*before it happens*. At the moment just before the model begins
+generating a response — after it has seen the empty tool result but
+before it has produced a single output token — we read its internal
+representations and predict whether it is about to fabricate or
+honestly admit it has no data. If the detector fires, we intervene
+in real time: the hallucination never reaches the user or any
+downstream system.
 
-We validate this approach on a concrete, measurable instance of the
-problem: a materials science agent that fabricates numerical property
-values when its database tool returns no results. But the method is
-general. The probe transfers across tool schemas, query phrasings, and
-chemical domains it was never trained on, suggesting that language
-models encode hallucination intent in a structured, detectable way.
+We validate this on a concrete, measurable instance of the problem:
+a materials science agent that invents numerical property values when
+its database returns no results. But the underlying signal generalizes.
+The probe transfers across tool schemas, query phrasings, and chemical
+domains it was never trained on — evidence that language models encode
+something like "fabrication intent" in a structured, linearly
+separable direction in their residual stream.
 
 ## Results
 
