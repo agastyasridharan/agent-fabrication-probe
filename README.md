@@ -3,8 +3,9 @@
 > Built at the **SCSP National Security Technology Hackathon**.
 
 Detecting and preventing tool-grounded fabrication in autonomous research
-agents using mechanistic interpretability — linear probes on residual-stream
-activations that catch hallucinations before they happen.
+agents using mechanistic interpretability. Linear probes on residual-stream
+activations predict fabrication before generation begins, enabling
+real-time intervention at tool-call boundaries.
 
 We train a logistic regression classifier on the internal representations
 of Llama-3.1-8B-Instruct, extracted at the last prompt token before
@@ -24,30 +25,28 @@ query phrasings never seen during training (novel paraphrased templates,
 
 ## Motivation
 
-Autonomous research agents — systems that query databases, run
-computations, and synthesize findings without human oversight — are
-only as useful as their outputs are trustworthy. Right now, they are
-not. When a tool call returns nothing, language models routinely
-fabricate confident, specific, wrong answers that look identical to
-correct ones. In an agentic pipeline, where one agent's output feeds
-into another's input, a single fabrication propagates silently and
-can contaminate downstream decisions, experiments, and resources.
+Autonomous research agents that query databases, run computations,
+and synthesize findings are only as useful as their outputs are
+trustworthy. When a tool call returns nothing, language models
+routinely fabricate confident, specific, wrong answers that are
+indistinguishable from correct ones. In agentic pipelines, where
+one agent's output feeds into another's input, a single fabrication
+propagates silently and contaminates downstream decisions,
+experiments, and resources.
 
 We use mechanistic interpretability techniques to detect fabrication
-*before it happens*. At the moment just before the model begins
-generating a response — after it has seen the empty tool result but
-before it has produced a single output token — we read its internal
-representations and predict whether it is about to fabricate or
-honestly admit it has no data. If the detector fires, we intervene
-in real time: the hallucination never reaches the user or any
-downstream system.
+*before it happens*. After the model has seen the empty tool result
+but before it has produced a single output token, we read its
+residual-stream activations and predict whether it is about to
+fabricate or honestly report that no data was found. When the
+detector fires, we inject a corrective prompt and re-generate,
+preventing the fabrication from reaching any downstream system.
 
-We validate this on a concrete, measurable instance of the problem:
-a materials science agent that invents numerical property values when
-its database returns no results. But the underlying signal generalizes.
-The probe transfers across tool schemas, query phrasings, and chemical
-domains it was never trained on — evidence that language models encode
-something like "fabrication intent" in a structured, linearly
+We validate this on a materials science agent that fabricates
+numerical property values when its database returns no results.
+The probe transfers zero-shot across tool schemas, query phrasings,
+and chemical domains it was never trained on, suggesting that
+language models encode fabrication intent in a structured, linearly
 separable direction in their residual stream.
 
 ## Results
